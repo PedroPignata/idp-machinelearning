@@ -1,0 +1,995 @@
+﻿codigo,codigo_global,numero_na_selecao,selecao,grupo,confederacao,ranking_fifa,jogador,posicao,clube,tipo,raridade,is_brilhante,rating_overall,pagina_album
+00,0,,Especial,,,,Capa do Álbum,ESP,Panini,Capa,Normal,0,,0
+FWC01,1,,Especial,,,,Mascote Estrella,ESP,FIFA/Panini,Especial FWC,Brilhante,1,,1
+FWC02,2,,Especial,,,,Logo Copa 2026,ESP,FIFA/Panini,Especial FWC,Brilhante,1,,1
+FWC03,3,,Especial,,,,Bola Oficial Al Hilm,ESP,FIFA/Panini,Especial FWC,Brilhante,1,,1
+FWC04,4,,Especial,,,,Troféu da Copa do Mundo,ESP,FIFA/Panini,Especial FWC,Brilhante,1,,1
+FWC05,5,,Especial,,,,MetLife Stadium - EUA,ESP,FIFA/Panini,Especial FWC,Brilhante,1,,1
+FWC06,6,,Especial,,,,Estádio Azteca - México,ESP,FIFA/Panini,Especial FWC,Brilhante,1,,1
+FWC07,7,,Especial,,,,BC Place - Canadá,ESP,FIFA/Panini,Especial FWC,Brilhante,1,,1
+FWC08,8,,Especial,,,,SoFi Stadium - EUA,ESP,FIFA/Panini,Especial FWC,Brilhante,1,,1
+FWC09,9,,Especial,,,,Levi's Stadium - EUA,ESP,FIFA/Panini,Especial FWC,Brilhante,1,,1
+FWC10,10,,Especial,,,,AT&T Stadium - EUA,ESP,FIFA/Panini,Especial FWC,Brilhante,1,,1
+FWC11,11,,Especial,,,,Gillette Stadium - EUA,ESP,FIFA/Panini,Especial FWC,Brilhante,1,,1
+FWC12,12,,Especial,,,,Arrowhead Stadium - EUA,ESP,FIFA/Panini,Especial FWC,Brilhante,1,,1
+FWC13,13,,Especial,,,,Lincoln Financial Field - EUA,ESP,FIFA/Panini,Especial FWC,Brilhante,1,,1
+FWC14,14,,Especial,,,,Rose Bowl - EUA,ESP,FIFA/Panini,Especial FWC,Brilhante,1,,1
+FWC15,15,,Especial,,,,NRG Stadium - EUA,ESP,FIFA/Panini,Especial FWC,Brilhante,1,,1
+FWC16,16,,Especial,,,,Panorama Sedes,ESP,FIFA/Panini,Especial FWC,Brilhante,1,,1
+FWC17,17,,Especial,,,,Melhor XI Copa 2026,ESP,FIFA/Panini,Especial FWC,Brilhante,1,,1
+FWC18,18,,Especial,,,,Pódio Final,ESP,FIFA/Panini,Especial FWC,Brilhante,1,,1
+FWC19,19,,Especial,,,,Campeão Copa 2026,ESP,FIFA/Panini,Especial FWC,Brilhante,1,,1
+MÉX01,20,1,México,A,CONCACAF,16,Escudo México,ESP,—,Escudo,Brilhante,1,,3
+MÉX02,21,2,México,A,CONCACAF,16,Grupo A — México,ESP,—,Grupo,Normal,0,,3
+MÉX03,22,3,México,A,CONCACAF,16,Cavallini,GOL,Chivas,Goleiro,Normal,0,74,3
+MÉX04,23,4,México,A,CONCACAF,16,Millar,GOL,Pumas,Goleiro,Normal,0,76,3
+MÉX05,24,5,México,A,CONCACAF,16,Antuna,ZAG,Tigres UANL,Jogador,Normal,0,78,3
+MÉX06,25,6,México,A,CONCACAF,16,Jiménez,ZAG,LA Galaxy,Jogador,Normal,0,75,3
+MÉX07,26,7,México,A,CONCACAF,16,David,ZAG,Toronto FC,Jogador,Normal,0,75,3
+MÉX08,27,8,México,A,CONCACAF,16,Hernández,LAT,Chivas,Jogador,Normal,0,73,3
+MÉX09,28,9,México,A,CONCACAF,16,Antuna,LAT,LA Galaxy,Jogador,Normal,0,77,3
+MÉX10,29,10,México,A,CONCACAF,16,Hernández,VOL,LA Galaxy,Jogador,Normal,0,74,3
+MÉX11,30,11,México,A,CONCACAF,16,Millar,MEI,LA Galaxy,Jogador,Normal,0,76,3
+MÉX12,31,12,México,A,CONCACAF,16,Antuna,MEI,CF Montréal,Jogador,Normal,0,79,3
+MÉX13,32,13,México,A,CONCACAF,16,Moreno,ATA,Club América,Jogador,Normal,0,80,3
+MÉX14,33,14,México,A,CONCACAF,16,Osorio,ATA,Tigres UANL,Jogador,Normal,0,78,3
+MÉX15,34,15,México,A,CONCACAF,16,Johnston,ATA,León,Jogador,Normal,0,78,3
+MÉX16,35,16,México,A,CONCACAF,16,Lozano,ATA,Cruz Azul,Jogador,Normal,0,81,3
+MÉX17,36,17,México,A,CONCACAF,16,Davies,ATA,Chivas,Jogador,Normal,0,72,3
+MÉX18,37,18,México,A,CONCACAF,16,Johnston,ATA,Chivas,Jogador,Normal,0,76,3
+MÉX19,38,19,México,A,CONCACAF,16,Estrela México,ATA,León,Estrela,Brilhante,1,83,3
+MÉX20,39,20,México,A,CONCACAF,16,Estrela México,ATA,Pumas,Destaque,Brilhante,1,79,3
+EQU01,40,1,Equador,A,CONMEBOL,40,Escudo Equador,ESP,—,Escudo,Brilhante,1,,5
+EQU02,41,2,Equador,A,CONMEBOL,40,Grupo A — Equador,ESP,—,Grupo,Normal,0,,5
+EQU03,42,3,Equador,A,CONMEBOL,40,Morales,GOL,São Paulo,Goleiro,Normal,0,72,5
+EQU04,43,4,Equador,A,CONMEBOL,40,Santos,GOL,Athletico PR,Goleiro,Normal,0,70,5
+EQU05,44,5,Equador,A,CONMEBOL,40,Ramírez,ZAG,Nacional,Jogador,Normal,0,77,5
+EQU06,45,6,Equador,A,CONMEBOL,40,Flores,ZAG,Corinthians,Jogador,Normal,0,73,5
+EQU07,46,7,Equador,A,CONMEBOL,40,López,ZAG,Corinthians,Jogador,Normal,0,71,5
+EQU08,47,8,Equador,A,CONMEBOL,40,Morales,LAT,Palmeiras,Jogador,Normal,0,68,5
+EQU09,48,9,Equador,A,CONMEBOL,40,Flores,LAT,River Plate,Jogador,Normal,0,78,5
+EQU10,49,10,Equador,A,CONMEBOL,40,Rodríguez,VOL,Palmeiras,Jogador,Normal,0,77,5
+EQU11,50,11,Equador,A,CONMEBOL,40,González,MEI,Palmeiras,Jogador,Normal,0,73,5
+EQU12,51,12,Equador,A,CONMEBOL,40,Rodríguez,MEI,São Paulo,Jogador,Normal,0,72,5
+EQU13,52,13,Equador,A,CONMEBOL,40,Castillo,ATA,Peñarol,Jogador,Normal,0,68,5
+EQU14,53,14,Equador,A,CONMEBOL,40,López,ATA,Peñarol,Jogador,Normal,0,70,5
+EQU15,54,15,Equador,A,CONMEBOL,40,Flores,ATA,Nacional,Jogador,Normal,0,74,5
+EQU16,55,16,Equador,A,CONMEBOL,40,Herrera,ATA,Independiente,Jogador,Normal,0,73,5
+EQU17,56,17,Equador,A,CONMEBOL,40,Santos,ATA,Corinthians,Jogador,Normal,0,75,5
+EQU18,57,18,Equador,A,CONMEBOL,40,Fernández,ATA,Santos,Jogador,Normal,0,75,5
+EQU19,58,19,Equador,A,CONMEBOL,40,Estrela Equador,ATA,River Plate,Estrela,Brilhante,1,76,5
+EQU20,59,20,Equador,A,CONMEBOL,40,Estrela Equador,ATA,São Paulo,Destaque,Brilhante,1,78,5
+IRA01,60,1,Iraque,A,AFC,71,Escudo Iraque,ESP,—,Escudo,Brilhante,1,,7
+IRA02,61,2,Iraque,A,AFC,71,Grupo A — Iraque,ESP,—,Grupo,Normal,0,,7
+IRA03,62,3,Iraque,A,AFC,71,Al-Dawsari,GOL,Al-Ain,Goleiro,Normal,0,69,7
+IRA04,63,4,Iraque,A,AFC,71,Morita,GOL,Jeonbuk,Goleiro,Normal,0,73,7
+IRA05,64,5,Iraque,A,AFC,71,Nishino,ZAG,Al-Hilal,Jogador,Normal,0,65,7
+IRA06,65,6,Iraque,A,AFC,71,Al-Faraj,ZAG,Al-Hilal,Jogador,Normal,0,71,7
+IRA07,66,7,Iraque,A,AFC,71,Salem,ZAG,Ulsan,Jogador,Normal,0,70,7
+IRA08,67,8,Iraque,A,AFC,71,Lee,LAT,Urawa Reds,Jogador,Normal,0,69,7
+IRA09,68,9,Iraque,A,AFC,71,Al-Buraikan,LAT,Jeonbuk,Jogador,Normal,0,63,7
+IRA10,69,10,Iraque,A,AFC,71,Morita,VOL,Melbourne City,Jogador,Normal,0,67,7
+IRA11,70,11,Iraque,A,AFC,71,Al-Buraikan,MEI,Melbourne City,Jogador,Normal,0,67,7
+IRA12,71,12,Iraque,A,AFC,71,Al-Dawsari,MEI,Al-Ittihad,Jogador,Normal,0,65,7
+IRA13,72,13,Iraque,A,AFC,71,Kubo,ATA,Al-Ain,Jogador,Normal,0,72,7
+IRA14,73,14,Iraque,A,AFC,71,Al-Dawsari,ATA,Yokohama FM,Jogador,Normal,0,69,7
+IRA15,74,15,Iraque,A,AFC,71,Al-Buraikan,ATA,Yokohama FM,Jogador,Normal,0,65,7
+IRA16,75,16,Iraque,A,AFC,71,Salem,ATA,Urawa Reds,Jogador,Normal,0,69,7
+IRA17,76,17,Iraque,A,AFC,71,Endo,ATA,Melbourne City,Jogador,Normal,0,63,7
+IRA18,77,18,Iraque,A,AFC,71,Nishino,ATA,Al-Hilal,Jogador,Normal,0,71,7
+IRA19,78,19,Iraque,A,AFC,71,Estrela Iraque,ATA,Al-Nassr,Estrela,Brilhante,1,66,7
+IRA20,79,20,Iraque,A,AFC,71,Estrela Iraque,ATA,Al-Ittihad,Destaque,Brilhante,1,71,7
+NOV01,80,1,Nova Zelândia,A,OFC,90,Escudo Nova Zelândia,ESP,—,Escudo,Brilhante,1,,9
+NOV02,81,2,Nova Zelândia,A,OFC,90,Grupo A — Nova Zelândia,ESP,—,Grupo,Normal,0,,9
+NOV03,82,3,Nova Zelândia,A,OFC,90,McGlinchey,GOL,AS Tefana,Goleiro,Normal,0,65,9
+NOV04,83,4,Nova Zelândia,A,OFC,90,Gould,GOL,AS Pirae,Goleiro,Normal,0,62,9
+NOV05,84,5,Nova Zelândia,A,OFC,90,Wood,ZAG,Wellington Phoenix,Jogador,Normal,0,63,9
+NOV06,85,6,Nova Zelândia,A,OFC,90,Woud,ZAG,AS Pirae,Jogador,Normal,0,57,9
+NOV07,86,7,Nova Zelândia,A,OFC,90,Woud,ZAG,AS Tefana,Jogador,Normal,0,59,9
+NOV08,87,8,Nova Zelândia,A,OFC,90,Gould,LAT,Wellington Phoenix,Jogador,Normal,0,66,9
+NOV09,88,9,Nova Zelândia,A,OFC,90,Woud,LAT,Auckland City,Jogador,Normal,0,62,9
+NOV10,89,10,Nova Zelândia,A,OFC,90,McGlinchey,VOL,AS Pirae,Jogador,Normal,0,66,9
+NOV11,90,11,Nova Zelândia,A,OFC,90,Cacace,MEI,Auckland City,Jogador,Normal,0,62,9
+NOV12,91,12,Nova Zelândia,A,OFC,90,Paston,MEI,Wellington Phoenix,Jogador,Normal,0,67,9
+NOV13,92,13,Nova Zelândia,A,OFC,90,Singh,ATA,AS Tefana,Jogador,Normal,0,60,9
+NOV14,93,14,Nova Zelândia,A,OFC,90,McGlinchey,ATA,AS Pirae,Jogador,Normal,0,69,9
+NOV15,94,15,Nova Zelândia,A,OFC,90,Woud,ATA,Auckland City,Jogador,Normal,0,60,9
+NOV16,95,16,Nova Zelândia,A,OFC,90,Cacace,ATA,Wellington Phoenix,Jogador,Normal,0,61,9
+NOV17,96,17,Nova Zelândia,A,OFC,90,Gould,ATA,Wellington Phoenix,Jogador,Normal,0,70,9
+NOV18,97,18,Nova Zelândia,A,OFC,90,Paston,ATA,Auckland City,Jogador,Normal,0,68,9
+NOV19,98,19,Nova Zelândia,A,OFC,90,Estrela Nova Zelândia,ATA,AS Tefana,Estrela,Brilhante,1,66,9
+NOV20,99,20,Nova Zelândia,A,OFC,90,Estrela Nova Zelândia,ATA,Auckland City,Destaque,Brilhante,1,67,9
+ESP01,100,1,Espanha,B,UEFA,3,Escudo Espanha,ESP,—,Escudo,Brilhante,1,,11
+ESP02,101,2,Espanha,B,UEFA,3,Grupo B — Espanha,ESP,—,Grupo,Normal,0,,11
+ESP03,102,3,Espanha,B,UEFA,3,Unai Simón,GOL,Athletic Bilbao,Goleiro,Normal,0,83,11
+ESP04,103,4,Espanha,B,UEFA,3,David Raya,GOL,Arsenal,Goleiro,Normal,0,88,11
+ESP05,104,5,Espanha,B,UEFA,3,Robin Le Normand,ZAG,Atlético Madrid,Jogador,Normal,0,84,11
+ESP06,105,6,Espanha,B,UEFA,3,Aymeric Laporte,ZAG,Al-Nassr,Jogador,Normal,0,85,11
+ESP07,106,7,Espanha,B,UEFA,3,Pau Cubarsí,ZAG,Barcelona,Jogador,Normal,0,81,11
+ESP08,107,8,Espanha,B,UEFA,3,Marc Cucurella,LAT,Chelsea,Jogador,Normal,0,88,11
+ESP09,108,9,Espanha,B,UEFA,3,Dani Carvajal,LAT,Real Madrid,Jogador,Normal,0,90,11
+ESP10,109,10,Espanha,B,UEFA,3,Rodri,VOL,Manchester City,Jogador,Normal,0,89,11
+ESP11,110,11,Espanha,B,UEFA,3,Pedri,MEI,Barcelona,Jogador,Normal,0,85,11
+ESP12,111,12,Espanha,B,UEFA,3,Fabian Ruiz,MEI,PSG,Jogador,Normal,0,83,11
+ESP13,112,13,Espanha,B,UEFA,3,Ferran Torres,ATA,Barcelona,Jogador,Normal,0,89,11
+ESP14,113,14,Espanha,B,UEFA,3,Mikel Oyarzabal,ATA,Real Sociedad,Jogador,Normal,0,85,11
+ESP15,114,15,Espanha,B,UEFA,3,Dani Olmo,MEI,Barcelona,Jogador,Normal,0,83,11
+ESP16,115,16,Espanha,B,UEFA,3,Nico Williams,ATA,Athletic Bilbao,Jogador,Normal,0,85,11
+ESP17,116,17,Espanha,B,UEFA,3,Gavi,MEI,Barcelona,Jogador,Normal,0,87,11
+ESP18,117,18,Espanha,B,UEFA,3,Álvaro Morata,ATA,Milan,Jogador,Normal,0,82,11
+ESP19,118,19,Espanha,B,UEFA,3,Lamine Yamal,ATA,Barcelona,Estrela,Brilhante,1,86,11
+ESP20,119,20,Espanha,B,UEFA,3,Lamine Yamal,ATA,Barcelona,Destaque,Brilhante,1,91,11
+CRO01,120,1,Croácia,B,UEFA,11,Escudo Croácia,ESP,—,Escudo,Brilhante,1,,13
+CRO02,121,2,Croácia,B,UEFA,11,Grupo B — Croácia,ESP,—,Grupo,Normal,0,,13
+CRO03,122,3,Croácia,B,UEFA,11,Dominik Livaković,GOL,Fenerbahçe,Goleiro,Normal,0,81,13
+CRO04,123,4,Croácia,B,UEFA,11,Ivica Ivušić,GOL,Osijek,Goleiro,Normal,0,80,13
+CRO05,124,5,Croácia,B,UEFA,11,Josip Šutalo,ZAG,Ajax,Jogador,Normal,0,81,13
+CRO06,125,6,Croácia,B,UEFA,11,Dario Špikić,ZAG,Dinamo Zagreb,Jogador,Normal,0,79,13
+CRO07,126,7,Croácia,B,UEFA,11,Joško Gvardiol,ZAG,Manchester City,Jogador,Normal,0,75,13
+CRO08,127,8,Croácia,B,UEFA,11,Josip Juranović,LAT,Celtic,Jogador,Normal,0,82,13
+CRO09,128,9,Croácia,B,UEFA,11,Borna Sosa,LAT,Stuttgart,Jogador,Normal,0,79,13
+CRO10,129,10,Croácia,B,UEFA,11,Luka Modrić,MEI,Real Madrid,Jogador,Normal,0,83,13
+CRO11,130,11,Croácia,B,UEFA,11,Marcelo Brozović,VOL,Al-Nassr,Jogador,Normal,0,80,13
+CRO12,131,12,Croácia,B,UEFA,11,Mateo Kovačić,MEI,Manchester City,Jogador,Normal,0,80,13
+CRO13,132,13,Croácia,B,UEFA,11,Ivan Perišić,ATA,Hajduk Split,Jogador,Normal,0,80,13
+CRO14,133,14,Croácia,B,UEFA,11,Lovro Majer,MEI,Wolfsburg,Jogador,Normal,0,76,13
+CRO15,134,15,Croácia,B,UEFA,11,Marko Livaja,ATA,Hajduk Split,Jogador,Normal,0,78,13
+CRO16,135,16,Croácia,B,UEFA,11,Andrej Kramarić,ATA,Hoffenheim,Jogador,Normal,0,78,13
+CRO17,136,17,Croácia,B,UEFA,11,Bruno Petković,ATA,Zenit,Jogador,Normal,0,83,13
+CRO18,137,18,Croácia,B,UEFA,11,Nikola Vlašić,MEI,Torino,Jogador,Normal,0,84,13
+CRO19,138,19,Croácia,B,UEFA,11,Luka Ivanušec,MEI,Dinamo Zagreb,Estrela,Brilhante,1,78,13
+CRO20,139,20,Croácia,B,UEFA,11,Luka Ivanušec,MEI,Dinamo Zagreb,Destaque,Brilhante,1,83,13
+MAR01,140,1,Marrocos,B,CAF,14,Escudo Marrocos,ESP,—,Escudo,Brilhante,1,,15
+MAR02,141,2,Marrocos,B,CAF,14,Grupo B — Marrocos,ESP,—,Grupo,Normal,0,,15
+MAR03,142,3,Marrocos,B,CAF,14,Yassine Bounou,GOL,Al-Hilal,Goleiro,Normal,0,79,15
+MAR04,143,4,Marrocos,B,CAF,14,Munir Mohamedi,GOL,Nantes,Goleiro,Normal,0,75,15
+MAR05,144,5,Marrocos,B,CAF,14,Romain Saïss,ZAG,Besiktas,Jogador,Normal,0,81,15
+MAR06,145,6,Marrocos,B,CAF,14,Nayef Aguerd,ZAG,West Ham,Jogador,Normal,0,77,15
+MAR07,146,7,Marrocos,B,CAF,14,Jawad El Yamiq,ZAG,Real Valladolid,Jogador,Normal,0,75,15
+MAR08,147,8,Marrocos,B,CAF,14,Achraf Hakimi,LAT,PSG,Jogador,Normal,0,82,15
+MAR09,148,9,Marrocos,B,CAF,14,Noussair Mazraoui,LAT,Bayern Munique,Jogador,Normal,0,78,15
+MAR10,149,10,Marrocos,B,CAF,14,Sofyan Amrabat,VOL,Fiorentina,Jogador,Normal,0,79,15
+MAR11,150,11,Marrocos,B,CAF,14,Azzedine Ounahi,MEI,Olympique Marseille,Jogador,Normal,0,80,15
+MAR12,151,12,Marrocos,B,CAF,14,Selim Amallah,MEI,Standard Liège,Jogador,Normal,0,80,15
+MAR13,152,13,Marrocos,B,CAF,14,Abdessamad Ezzalzouli,ATA,Betis,Jogador,Normal,0,78,15
+MAR14,153,14,Marrocos,B,CAF,14,Soufiane Rahimi,ATA,Al-Ain,Jogador,Normal,0,79,15
+MAR15,154,15,Marrocos,B,CAF,14,Ayoub El Kaabi,ATA,Olympiakos,Jogador,Normal,0,78,15
+MAR16,155,16,Marrocos,B,CAF,14,Youssef En-Nesyri,ATA,Fenerbahçe,Jogador,Normal,0,84,15
+MAR17,156,17,Marrocos,B,CAF,14,Hakim Ziyech,ATA,Galatasaray,Jogador,Normal,0,80,15
+MAR18,157,18,Marrocos,B,CAF,14,Ilias Chair,MEI,QPR,Jogador,Normal,0,80,15
+MAR19,158,19,Marrocos,B,CAF,14,Sofiane Boufal,ATA,Angers,Estrela,Brilhante,1,81,15
+MAR20,159,20,Marrocos,B,CAF,14,Sofiane Boufal,ATA,Angers,Destaque,Brilhante,1,82,15
+JAP01,160,1,Japão,B,AFC,15,Escudo Japão,ESP,—,Escudo,Brilhante,1,,17
+JAP02,161,2,Japão,B,AFC,15,Grupo B — Japão,ESP,—,Grupo,Normal,0,,17
+JAP03,162,3,Japão,B,AFC,15,Shuichi Gonda,GOL,Shimizu,Goleiro,Normal,0,81,17
+JAP04,163,4,Japão,B,AFC,15,Zion Suzuki,GOL,Parma,Goleiro,Normal,0,81,17
+JAP05,164,5,Japão,B,AFC,15,Maya Yoshida,ZAG,FC Machida,Jogador,Normal,0,82,17
+JAP06,165,6,Japão,B,AFC,15,Ko Itakura,ZAG,Borussia Mönchengladbach,Jogador,Normal,0,78,17
+JAP07,166,7,Japão,B,AFC,15,Takehiro Tomiyasu,ZAG,Arsenal,Jogador,Normal,0,81,17
+JAP08,167,8,Japão,B,AFC,15,Hiroki Sakai,LAT,Urawa Reds,Jogador,Normal,0,79,17
+JAP09,168,9,Japão,B,AFC,15,Yuto Nagatomo,LAT,FC Tokyo,Jogador,Normal,0,77,17
+JAP10,169,10,Japão,B,AFC,15,Wataru Endo,VOL,Liverpool,Jogador,Normal,0,83,17
+JAP11,170,11,Japão,B,AFC,15,Gaku Shibasaki,MEI,Leganés,Jogador,Normal,0,83,17
+JAP12,171,12,Japão,B,AFC,15,Junya Ito,MEI,Reims,Jogador,Normal,0,79,17
+JAP13,172,13,Japão,B,AFC,15,Kaoru Mitoma,ATA,Brighton,Jogador,Normal,0,80,17
+JAP14,173,14,Japão,B,AFC,15,Takumi Minamino,ATA,Monaco,Jogador,Normal,0,78,17
+JAP15,174,15,Japão,B,AFC,15,Daichi Kamada,MEI,Lazio,Jogador,Normal,0,80,17
+JAP16,175,16,Japão,B,AFC,15,Ritsu Doan,ATA,SC Freiburg,Jogador,Normal,0,85,17
+JAP17,176,17,Japão,B,AFC,15,Ayase Ueda,ATA,Feyenoord,Jogador,Normal,0,85,17
+JAP18,177,18,Japão,B,AFC,15,Takefusa Kubo,MEI,Real Sociedad,Jogador,Normal,0,77,17
+JAP19,178,19,Japão,B,AFC,15,Sho Ito,ATA,Yokohama FM,Estrela,Brilhante,1,78,17
+JAP20,179,20,Japão,B,AFC,15,Sho Ito,ATA,Yokohama FM,Destaque,Brilhante,1,82,17
+BRA01,180,1,Brasil,C,CONMEBOL,5,Escudo Brasil,ESP,—,Escudo,Brilhante,1,,19
+BRA02,181,2,Brasil,C,CONMEBOL,5,Grupo C — Brasil,ESP,—,Grupo,Normal,0,,19
+BRA03,182,3,Brasil,C,CONMEBOL,5,Alisson,GOL,Liverpool,Goleiro,Normal,0,83,19
+BRA04,183,4,Brasil,C,CONMEBOL,5,Bento,GOL,Al-Qadsiah,Goleiro,Normal,0,89,19
+BRA05,184,5,Brasil,C,CONMEBOL,5,Marquinhos,ZAG,PSG,Jogador,Normal,0,83,19
+BRA06,185,6,Brasil,C,CONMEBOL,5,Éder Militão,ZAG,Real Madrid,Jogador,Normal,0,85,19
+BRA07,186,7,Brasil,C,CONMEBOL,5,Gabriel Magalhães,ZAG,Arsenal,Jogador,Normal,0,86,19
+BRA08,187,8,Brasil,C,CONMEBOL,5,Danilo,LAT,Flamengo,Jogador,Normal,0,80,19
+BRA09,188,9,Brasil,C,CONMEBOL,5,Wesley,LAT,Aston Villa,Jogador,Normal,0,83,19
+BRA10,189,10,Brasil,C,CONMEBOL,5,Casemiro,VOL,Manchester United,Jogador,Normal,0,84,19
+BRA11,190,11,Brasil,C,CONMEBOL,5,Lucas Paquetá,MEI,West Ham,Jogador,Normal,0,82,19
+BRA12,191,12,Brasil,C,CONMEBOL,5,Bruno Guimarães,MEI,Newcastle,Jogador,Normal,0,83,19
+BRA13,192,13,Brasil,C,CONMEBOL,5,Luiz Henrique,ATA,Botafogo,Jogador,Normal,0,85,19
+BRA14,193,14,Brasil,C,CONMEBOL,5,Vinícius Jr,ATA,Real Madrid,Jogador,Normal,0,84,19
+BRA15,194,15,Brasil,C,CONMEBOL,5,Rodrygo,ATA,Real Madrid,Jogador,Normal,0,85,19
+BRA16,195,16,Brasil,C,CONMEBOL,5,João Pedro,ATA,Brighton,Jogador,Normal,0,85,19
+BRA17,196,17,Brasil,C,CONMEBOL,5,Matheus Cunha,ATA,Wolves,Jogador,Normal,0,85,19
+BRA18,197,18,Brasil,C,CONMEBOL,5,Gabriel Martinelli,ATA,Arsenal,Jogador,Normal,0,86,19
+BRA19,198,19,Brasil,C,CONMEBOL,5,Estêvão,ATA,Chelsea,Estrela,Brilhante,1,85,19
+BRA20,199,20,Brasil,C,CONMEBOL,5,Estêvão,ATA,Chelsea,Destaque,Brilhante,1,86,19
+ALE01,200,1,Alemanha,C,UEFA,13,Escudo Alemanha,ESP,—,Escudo,Brilhante,1,,21
+ALE02,201,2,Alemanha,C,UEFA,13,Grupo C — Alemanha,ESP,—,Grupo,Normal,0,,21
+ALE03,202,3,Alemanha,C,UEFA,13,Manuel Neuer,GOL,Bayern Munique,Goleiro,Normal,0,81,21
+ALE04,203,4,Alemanha,C,UEFA,13,Marc-André ter Stegen,GOL,Barcelona,Goleiro,Normal,0,85,21
+ALE05,204,5,Alemanha,C,UEFA,13,Antonio Rüdiger,ZAG,Real Madrid,Jogador,Normal,0,83,21
+ALE06,205,6,Alemanha,C,UEFA,13,Jonathan Tah,ZAG,Bayer Leverkusen,Jogador,Normal,0,83,21
+ALE07,206,7,Alemanha,C,UEFA,13,Nico Schlotterbeck,ZAG,Borussia Dortmund,Jogador,Normal,0,84,21
+ALE08,207,8,Alemanha,C,UEFA,13,Benjamin Henrichs,LAT,Leipzig,Jogador,Normal,0,78,21
+ALE09,208,9,Alemanha,C,UEFA,13,David Raum,LAT,Leipzig,Jogador,Normal,0,76,21
+ALE10,209,10,Alemanha,C,UEFA,13,Joshua Kimmich,MEI,Bayern Munique,Jogador,Normal,0,81,21
+ALE11,210,11,Alemanha,C,UEFA,13,Leon Goretzka,MEI,Bayern Munique,Jogador,Normal,0,83,21
+ALE12,211,12,Alemanha,C,UEFA,13,İlkay Gündoğan,VOL,Barcelona,Jogador,Normal,0,86,21
+ALE13,212,13,Alemanha,C,UEFA,13,Florian Wirtz,MEI,Bayer Leverkusen,Jogador,Normal,0,75,21
+ALE14,213,14,Alemanha,C,UEFA,13,Leroy Sané,ATA,Bayern Munique,Jogador,Normal,0,79,21
+ALE15,214,15,Alemanha,C,UEFA,13,Serge Gnabry,ATA,Bayern Munique,Jogador,Normal,0,86,21
+ALE16,215,16,Alemanha,C,UEFA,13,Thomas Müller,ATA,Bayern Munique,Jogador,Normal,0,84,21
+ALE17,216,17,Alemanha,C,UEFA,13,Kai Havertz,ATA,Arsenal,Jogador,Normal,0,79,21
+ALE18,217,18,Alemanha,C,UEFA,13,Niclas Füllkrug,ATA,West Ham,Jogador,Normal,0,79,21
+ALE19,218,19,Alemanha,C,UEFA,13,Jamal Musiala,MEI,Bayern Munique,Estrela,Brilhante,1,84,21
+ALE20,219,20,Alemanha,C,UEFA,13,Jamal Musiala,MEI,Bayern Munique,Destaque,Brilhante,1,84,21
+COL01,220,1,Colômbia,C,CONMEBOL,20,Escudo Colômbia,ESP,—,Escudo,Brilhante,1,,23
+COL02,221,2,Colômbia,C,CONMEBOL,20,Grupo C — Colômbia,ESP,—,Grupo,Normal,0,,23
+COL03,222,3,Colômbia,C,CONMEBOL,20,Camilo Vargas,GOL,Tigres,Goleiro,Normal,0,79,23
+COL04,223,4,Colômbia,C,CONMEBOL,20,Kevin Mier,GOL,Club América,Goleiro,Normal,0,77,23
+COL05,224,5,Colômbia,C,CONMEBOL,20,Davinson Sánchez,ZAG,Galatasaray,Jogador,Normal,0,79,23
+COL06,225,6,Colômbia,C,CONMEBOL,20,Yerry Mina,ZAG,Valencia,Jogador,Normal,0,75,23
+COL07,226,7,Colômbia,C,CONMEBOL,20,Carlos Cuesta,ZAG,Genk,Jogador,Normal,0,74,23
+COL08,227,8,Colômbia,C,CONMEBOL,20,Daniel Muñoz,LAT,Crystal Palace,Jogador,Normal,0,72,23
+COL09,228,9,Colômbia,C,CONMEBOL,20,Johan Mojica,LAT,Rayo Vallecano,Jogador,Normal,0,79,23
+COL10,229,10,Colômbia,C,CONMEBOL,20,Richard Ríos,VOL,Palmeiras,Jogador,Normal,0,71,23
+COL11,230,11,Colômbia,C,CONMEBOL,20,Mateus Uribe,MEI,Porto,Jogador,Normal,0,74,23
+COL12,231,12,Colômbia,C,CONMEBOL,20,Jhon Arias,ATA,Fluminense,Jogador,Normal,0,73,23
+COL13,232,13,Colômbia,C,CONMEBOL,20,Cucho Hernández,ATA,Columbus Crew,Jogador,Normal,0,79,23
+COL14,233,14,Colômbia,C,CONMEBOL,20,Rafael Santos Borré,ATA,Frankfurt,Jogador,Normal,0,82,23
+COL15,234,15,Colômbia,C,CONMEBOL,20,Luis Sinisterra,ATA,Bournemouth,Jogador,Normal,0,74,23
+COL16,235,16,Colômbia,C,CONMEBOL,20,Radamel Falcao,ATA,Rayo Vallecano,Jogador,Normal,0,76,23
+COL17,236,17,Colômbia,C,CONMEBOL,20,Luis Díaz,ATA,Liverpool,Jogador,Normal,0,78,23
+COL18,237,18,Colômbia,C,CONMEBOL,20,Juan Cuadrado,LAT,Independiente SF,Jogador,Normal,0,76,23
+COL19,238,19,Colômbia,C,CONMEBOL,20,Jhon Córdoba,ATA,Krasnodar,Estrela,Brilhante,1,80,23
+COL20,239,20,Colômbia,C,CONMEBOL,20,Jhon Córdoba,ATA,Krasnodar,Destaque,Brilhante,1,82,23
+POR01,240,1,Portugal,C,UEFA,6,Escudo Portugal,ESP,—,Escudo,Brilhante,1,,25
+POR02,241,2,Portugal,C,UEFA,6,Grupo C — Portugal,ESP,—,Grupo,Normal,0,,25
+POR03,242,3,Portugal,C,UEFA,6,Diogo Costa,GOL,Porto,Goleiro,Normal,0,78,25
+POR04,243,4,Portugal,C,UEFA,6,Rui Patrício,GOL,Roma,Goleiro,Normal,0,76,25
+POR05,244,5,Portugal,C,UEFA,6,Rúben Dias,ZAG,Manchester City,Jogador,Normal,0,82,25
+POR06,245,6,Portugal,C,UEFA,6,Pepe,ZAG,Porto,Jogador,Normal,0,80,25
+POR07,246,7,Portugal,C,UEFA,6,Gonçalo Inácio,ZAG,Sporting CP,Jogador,Normal,0,75,25
+POR08,247,8,Portugal,C,UEFA,6,Nuno Mendes,LAT,PSG,Jogador,Normal,0,81,25
+POR09,248,9,Portugal,C,UEFA,6,João Cancelo,LAT,Barcelona,Jogador,Normal,0,81,25
+POR10,249,10,Portugal,C,UEFA,6,João Palhinha,VOL,Bayern Munique,Jogador,Normal,0,82,25
+POR11,250,11,Portugal,C,UEFA,6,Bernardo Silva,MEI,Manchester City,Jogador,Normal,0,77,25
+POR12,251,12,Portugal,C,UEFA,6,Bruno Fernandes,MEI,Manchester United,Jogador,Normal,0,85,25
+POR13,252,13,Portugal,C,UEFA,6,Vitinha,MEI,PSG,Jogador,Normal,0,77,25
+POR14,253,14,Portugal,C,UEFA,6,Rafael Leão,ATA,Milan,Jogador,Normal,0,78,25
+POR15,254,15,Portugal,C,UEFA,6,Pedro Neto,ATA,Chelsea,Jogador,Normal,0,75,25
+POR16,255,16,Portugal,C,UEFA,6,Diogo Jota,ATA,Liverpool,Jogador,Normal,0,84,25
+POR17,256,17,Portugal,C,UEFA,6,Gonçalo Ramos,ATA,PSG,Jogador,Normal,0,78,25
+POR18,257,18,Portugal,C,UEFA,6,Francisco Conceição,ATA,Juventus,Jogador,Normal,0,80,25
+POR19,258,19,Portugal,C,UEFA,6,Cristiano Ronaldo,ATA,Al-Nassr,Estrela,Brilhante,1,85,25
+POR20,259,20,Portugal,C,UEFA,6,Cristiano Ronaldo,ATA,Al-Nassr,Destaque,Brilhante,1,82,25
+ARG01,260,1,Argentina,D,CONMEBOL,1,Escudo Argentina,ESP,—,Escudo,Brilhante,1,,27
+ARG02,261,2,Argentina,D,CONMEBOL,1,Grupo D — Argentina,ESP,—,Grupo,Normal,0,,27
+ARG03,262,3,Argentina,D,CONMEBOL,1,Emiliano Martínez,GOL,Aston Villa,Goleiro,Normal,0,84,27
+ARG04,263,4,Argentina,D,CONMEBOL,1,Franco Armani,GOL,River Plate,Goleiro,Normal,0,84,27
+ARG05,264,5,Argentina,D,CONMEBOL,1,Cristian Romero,ZAG,Tottenham,Jogador,Normal,0,81,27
+ARG06,265,6,Argentina,D,CONMEBOL,1,Lisandro Martínez,ZAG,Manchester United,Jogador,Normal,0,85,27
+ARG07,266,7,Argentina,D,CONMEBOL,1,Nicolás Otamendi,ZAG,Benfica,Jogador,Normal,0,84,27
+ARG08,267,8,Argentina,D,CONMEBOL,1,Nahuel Molina,LAT,Atlético Madrid,Jogador,Normal,0,79,27
+ARG09,268,9,Argentina,D,CONMEBOL,1,Marcos Acuña,LAT,Sevilla,Jogador,Normal,0,83,27
+ARG10,269,10,Argentina,D,CONMEBOL,1,Rodrigo De Paul,MEI,Atlético Madrid,Jogador,Normal,0,81,27
+ARG11,270,11,Argentina,D,CONMEBOL,1,Leandro Paredes,VOL,Roma,Jogador,Normal,0,84,27
+ARG12,271,12,Argentina,D,CONMEBOL,1,Alexis Mac Allister,MEI,Liverpool,Jogador,Normal,0,86,27
+ARG13,272,13,Argentina,D,CONMEBOL,1,Ángel Di María,ATA,Benfica,Jogador,Normal,0,81,27
+ARG14,273,14,Argentina,D,CONMEBOL,1,Paulo Dybala,ATA,Roma,Jogador,Normal,0,85,27
+ARG15,274,15,Argentina,D,CONMEBOL,1,Nicolás González,ATA,Juventus,Jogador,Normal,0,84,27
+ARG16,275,16,Argentina,D,CONMEBOL,1,Lautaro Martínez,ATA,Inter de Milão,Jogador,Normal,0,87,27
+ARG17,276,17,Argentina,D,CONMEBOL,1,Julián Álvarez,ATA,Atlético Madrid,Jogador,Normal,0,80,27
+ARG18,277,18,Argentina,D,CONMEBOL,1,Alejandro Garnacho,ATA,Manchester United,Jogador,Normal,0,83,27
+ARG19,278,19,Argentina,D,CONMEBOL,1,Lionel Messi,ATA,Inter Miami,Estrela,Brilhante,1,88,27
+ARG20,279,20,Argentina,D,CONMEBOL,1,Lionel Messi,ATA,Inter Miami,Destaque,Brilhante,1,87,27
+NOR01,280,1,Noruega,D,UEFA,25,Escudo Noruega,ESP,—,Escudo,Brilhante,1,,29
+NOR02,281,2,Noruega,D,UEFA,25,Grupo D — Noruega,ESP,—,Grupo,Normal,0,,29
+NOR03,282,3,Noruega,D,UEFA,25,García,GOL,Besiktas,Goleiro,Normal,0,77,29
+NOR04,283,4,Noruega,D,UEFA,25,Novak,GOL,Feyenoord,Goleiro,Normal,0,76,29
+NOR05,284,5,Noruega,D,UEFA,25,Novak,ZAG,Ajax,Jogador,Normal,0,76,29
+NOR06,285,6,Noruega,D,UEFA,25,Dembélé,ZAG,Porto,Jogador,Normal,0,77,29
+NOR07,286,7,Noruega,D,UEFA,25,Petrov,ZAG,Anderlecht,Jogador,Normal,0,78,29
+NOR08,287,8,Noruega,D,UEFA,25,García,LAT,Lyon,Jogador,Normal,0,77,29
+NOR09,288,9,Noruega,D,UEFA,25,Rossi,LAT,Benfica,Jogador,Normal,0,77,29
+NOR10,289,10,Noruega,D,UEFA,25,Andersen,VOL,Celtic,Jogador,Normal,0,75,29
+NOR11,290,11,Noruega,D,UEFA,25,Smith,MEI,Galatasaray,Jogador,Normal,0,71,29
+NOR12,291,12,Noruega,D,UEFA,25,Svensson,MEI,Galatasaray,Jogador,Normal,0,78,29
+NOR13,292,13,Noruega,D,UEFA,25,Hansen,ATA,Anderlecht,Jogador,Normal,0,81,29
+NOR14,293,14,Noruega,D,UEFA,25,Petrov,ATA,Rangers,Jogador,Normal,0,80,29
+NOR15,294,15,Noruega,D,UEFA,25,Kovač,ATA,Shakhtar,Jogador,Normal,0,78,29
+NOR16,295,16,Noruega,D,UEFA,25,Petrov,ATA,Shakhtar,Jogador,Normal,0,76,29
+NOR17,296,17,Noruega,D,UEFA,25,Smith,ATA,Feyenoord,Jogador,Normal,0,76,29
+NOR18,297,18,Noruega,D,UEFA,25,Rossi,ATA,Dynamo Kyiv,Jogador,Normal,0,77,29
+NOR19,298,19,Noruega,D,UEFA,25,Estrela Noruega,ATA,Porto,Estrela,Brilhante,1,76,29
+NOR20,299,20,Noruega,D,UEFA,25,Estrela Noruega,ATA,Feyenoord,Destaque,Brilhante,1,78,29
+SEN01,300,1,Senegal,D,CAF,18,Escudo Senegal,ESP,—,Escudo,Brilhante,1,,31
+SEN02,301,2,Senegal,D,CAF,18,Grupo D — Senegal,ESP,—,Grupo,Normal,0,,31
+SEN03,302,3,Senegal,D,CAF,18,Édouard Mendy,GOL,Chelsea,Goleiro,Normal,0,75,31
+SEN04,303,4,Senegal,D,CAF,18,Alfred Gomis,GOL,Rennes,Goleiro,Normal,0,78,31
+SEN05,304,5,Senegal,D,CAF,18,Kalidou Koulibaly,ZAG,Al-Hilal,Jogador,Normal,0,78,31
+SEN06,305,6,Senegal,D,CAF,18,Abdou Diallo,ZAG,Leipzig,Jogador,Normal,0,76,31
+SEN07,306,7,Senegal,D,CAF,18,Pape Abou Cissé,ZAG,Olympiakos,Jogador,Normal,0,78,31
+SEN08,307,8,Senegal,D,CAF,18,Youssouf Sabaly,LAT,Betis,Jogador,Normal,0,79,31
+SEN09,308,9,Senegal,D,CAF,18,Ismail Jakobs,LAT,Monaco,Jogador,Normal,0,80,31
+SEN10,309,10,Senegal,D,CAF,18,Nampalys Mendy,VOL,Leicester,Jogador,Normal,0,75,31
+SEN11,310,11,Senegal,D,CAF,18,Pape Matar Sarr,MEI,Tottenham,Jogador,Normal,0,78,31
+SEN12,311,12,Senegal,D,CAF,18,Krepin Diatta,MEI,Monaco,Jogador,Normal,0,76,31
+SEN13,312,13,Senegal,D,CAF,18,Ismaïla Sarr,ATA,Crystal Palace,Jogador,Normal,0,74,31
+SEN14,313,14,Senegal,D,CAF,18,Nicolas Jackson,ATA,Chelsea,Jogador,Normal,0,79,31
+SEN15,314,15,Senegal,D,CAF,18,Habib Diallo,ATA,Strasbourg,Jogador,Normal,0,73,31
+SEN16,315,16,Senegal,D,CAF,18,Bamba Dieng,ATA,Lorient,Jogador,Normal,0,74,31
+SEN17,316,17,Senegal,D,CAF,18,Iliman Ndiaye,ATA,Olympique Marseille,Jogador,Normal,0,79,31
+SEN18,317,18,Senegal,D,CAF,18,Lamine Camara,MEI,Monaco,Jogador,Normal,0,74,31
+SEN19,318,19,Senegal,D,CAF,18,Cheikhou Kouyaté,VOL,Nottm Forest,Estrela,Brilhante,1,76,31
+SEN20,319,20,Senegal,D,CAF,18,Cheikhou Kouyaté,VOL,Nottm Forest,Destaque,Brilhante,1,75,31
+GUA01,320,1,Guatemala,D,CONCACAF,117,Escudo Guatemala,ESP,—,Escudo,Brilhante,1,,33
+GUA02,321,2,Guatemala,D,CONCACAF,117,Grupo D — Guatemala,ESP,—,Grupo,Normal,0,,33
+GUA03,322,3,Guatemala,D,CONCACAF,117,Hernández,GOL,León,Goleiro,Normal,0,70,33
+GUA04,323,4,Guatemala,D,CONCACAF,117,Lozano,GOL,Pumas,Goleiro,Normal,0,58,33
+GUA05,324,5,Guatemala,D,CONCACAF,117,Millar,ZAG,CF Montréal,Jogador,Normal,0,63,33
+GUA06,325,6,Guatemala,D,CONCACAF,117,Millar,ZAG,Toronto FC,Jogador,Normal,0,64,33
+GUA07,326,7,Guatemala,D,CONCACAF,117,Hernández,ZAG,Chivas,Jogador,Normal,0,57,33
+GUA08,327,8,Guatemala,D,CONCACAF,117,Millar,LAT,Tigres UANL,Jogador,Normal,0,61,33
+GUA09,328,9,Guatemala,D,CONCACAF,117,Hernández,LAT,León,Jogador,Normal,0,62,33
+GUA10,329,10,Guatemala,D,CONCACAF,117,Larin,VOL,Tigres UANL,Jogador,Normal,0,66,33
+GUA11,330,11,Guatemala,D,CONCACAF,117,Lozano,MEI,Club América,Jogador,Normal,0,65,33
+GUA12,331,12,Guatemala,D,CONCACAF,117,Davies,MEI,Club América,Jogador,Normal,0,64,33
+GUA13,332,13,Guatemala,D,CONCACAF,117,Antuna,ATA,Cruz Azul,Jogador,Normal,0,63,33
+GUA14,333,14,Guatemala,D,CONCACAF,117,Jiménez,ATA,León,Jogador,Normal,0,65,33
+GUA15,334,15,Guatemala,D,CONCACAF,117,Larin,ATA,Toronto FC,Jogador,Normal,0,67,33
+GUA16,335,16,Guatemala,D,CONCACAF,117,Millar,ATA,Tigres UANL,Jogador,Normal,0,61,33
+GUA17,336,17,Guatemala,D,CONCACAF,117,Lawrence,ATA,Tigres UANL,Jogador,Normal,0,70,33
+GUA18,337,18,Guatemala,D,CONCACAF,117,Osorio,ATA,Tigres UANL,Jogador,Normal,0,61,33
+GUA19,338,19,Guatemala,D,CONCACAF,117,Estrela Guatemala,ATA,Club América,Estrela,Brilhante,1,68,33
+GUA20,339,20,Guatemala,D,CONCACAF,117,Estrela Guatemala,ATA,León,Destaque,Brilhante,1,63,33
+FRA01,340,1,França,E,UEFA,2,Escudo França,ESP,—,Escudo,Brilhante,1,,35
+FRA02,341,2,França,E,UEFA,2,Grupo E — França,ESP,—,Grupo,Normal,0,,35
+FRA03,342,3,França,E,UEFA,2,Mike Maignan,GOL,Milan,Goleiro,Normal,0,88,35
+FRA04,343,4,França,E,UEFA,2,Alphonse Areola,GOL,West Ham,Goleiro,Normal,0,87,35
+FRA05,344,5,França,E,UEFA,2,William Saliba,ZAG,Arsenal,Jogador,Normal,0,85,35
+FRA06,345,6,França,E,UEFA,2,Dayot Upamecano,ZAG,Bayern Munique,Jogador,Normal,0,85,35
+FRA07,346,7,França,E,UEFA,2,Ibrahima Konaté,ZAG,Liverpool,Jogador,Normal,0,85,35
+FRA08,347,8,França,E,UEFA,2,Théo Hernández,LAT,Milan,Jogador,Normal,0,85,35
+FRA09,348,9,França,E,UEFA,2,Benjamin Pavard,ZAG,Inter de Milão,Jogador,Normal,0,84,35
+FRA10,349,10,França,E,UEFA,2,Aurélien Tchouaméni,VOL,Real Madrid,Jogador,Normal,0,84,35
+FRA11,350,11,França,E,UEFA,2,N'Golo Kanté,VOL,Al-Ittihad,Jogador,Normal,0,89,35
+FRA12,351,12,França,E,UEFA,2,Antoine Griezmann,MEI,Atlético Madrid,Jogador,Normal,0,86,35
+FRA13,352,13,França,E,UEFA,2,Ousmane Dembélé,ATA,PSG,Jogador,Normal,0,79,35
+FRA14,353,14,França,E,UEFA,2,Marcus Thuram,ATA,Inter de Milão,Jogador,Normal,0,82,35
+FRA15,354,15,França,E,UEFA,2,Randal Kolo Muani,ATA,Juventus,Jogador,Normal,0,87,35
+FRA16,355,16,França,E,UEFA,2,Bradley Barcola,ATA,PSG,Jogador,Normal,0,81,35
+FRA17,356,17,França,E,UEFA,2,Mathys Tel,ATA,Bayer Leverkusen,Jogador,Normal,0,87,35
+FRA18,357,18,França,E,UEFA,2,Adrien Rabiot,MEI,Olympique Marseille,Jogador,Normal,0,85,35
+FRA19,358,19,França,E,UEFA,2,Kylian Mbappé,ATA,Real Madrid,Estrela,Brilhante,1,88,35
+FRA20,359,20,França,E,UEFA,2,Kylian Mbappé,ATA,Real Madrid,Destaque,Brilhante,1,83,35
+HOL01,360,1,Holanda,E,UEFA,7,Escudo Holanda,ESP,—,Escudo,Brilhante,1,,37
+HOL02,361,2,Holanda,E,UEFA,7,Grupo E — Holanda,ESP,—,Grupo,Normal,0,,37
+HOL03,362,3,Holanda,E,UEFA,7,Bart Verbruggen,GOL,Brighton,Goleiro,Normal,0,84,37
+HOL04,363,4,Holanda,E,UEFA,7,Mark Flekken,GOL,Brentford,Goleiro,Normal,0,80,37
+HOL05,364,5,Holanda,E,UEFA,7,Virgil van Dijk,ZAG,Liverpool,Jogador,Normal,0,77,37
+HOL06,365,6,Holanda,E,UEFA,7,Matthijs de Ligt,ZAG,Manchester United,Jogador,Normal,0,80,37
+HOL07,366,7,Holanda,E,UEFA,7,Nathan Aké,ZAG,Manchester City,Jogador,Normal,0,86,37
+HOL08,367,8,Holanda,E,UEFA,7,Denzel Dumfries,LAT,Inter de Milão,Jogador,Normal,0,84,37
+HOL09,368,9,Holanda,E,UEFA,7,Destiny Udogie,LAT,Tottenham,Jogador,Normal,0,86,37
+HOL10,369,10,Holanda,E,UEFA,7,Frenkie de Jong,VOL,Barcelona,Jogador,Normal,0,78,37
+HOL11,370,11,Holanda,E,UEFA,7,Teun Koopmeiners,MEI,Juventus,Jogador,Normal,0,81,37
+HOL12,371,12,Holanda,E,UEFA,7,Tijjani Reijnders,MEI,Milan,Jogador,Normal,0,75,37
+HOL13,372,13,Holanda,E,UEFA,7,Donyell Malen,ATA,Borussia Dortmund,Jogador,Normal,0,82,37
+HOL14,373,14,Holanda,E,UEFA,7,Xavi Simons,MEI,PSG,Jogador,Normal,0,76,37
+HOL15,374,15,Holanda,E,UEFA,7,Brian Brobbey,ATA,Ajax,Jogador,Normal,0,82,37
+HOL16,375,16,Holanda,E,UEFA,7,Steven Bergwijn,ATA,Ajax,Jogador,Normal,0,78,37
+HOL17,376,17,Holanda,E,UEFA,7,Cody Gakpo,ATA,Liverpool,Jogador,Normal,0,82,37
+HOL18,377,18,Holanda,E,UEFA,7,Joey Veerman,MEI,PSV,Jogador,Normal,0,82,37
+HOL19,378,19,Holanda,E,UEFA,7,Memphis Depay,ATA,Corinthians,Estrela,Brilhante,1,79,37
+HOL20,379,20,Holanda,E,UEFA,7,Memphis Depay,ATA,Corinthians,Destaque,Brilhante,1,85,37
+AUS01,380,1,Austrália,E,AFC,24,Escudo Austrália,ESP,—,Escudo,Brilhante,1,,39
+AUS02,381,2,Austrália,E,AFC,24,Grupo E — Austrália,ESP,—,Grupo,Normal,0,,39
+AUS03,382,3,Austrália,E,AFC,24,Salem,GOL,Al-Ain,Goleiro,Normal,0,76,39
+AUS04,383,4,Austrália,E,AFC,24,Morita,GOL,Al-Ain,Goleiro,Normal,0,77,39
+AUS05,384,5,Austrália,E,AFC,24,Kim,ZAG,Al-Nassr,Jogador,Normal,0,73,39
+AUS06,385,6,Austrália,E,AFC,24,Park,ZAG,Yokohama FM,Jogador,Normal,0,76,39
+AUS07,386,7,Austrália,E,AFC,24,Kim,ZAG,Al-Nassr,Jogador,Normal,0,75,39
+AUS08,387,8,Austrália,E,AFC,24,Honda,LAT,Jeonbuk,Jogador,Normal,0,79,39
+AUS09,388,9,Austrália,E,AFC,24,Nishino,LAT,Jeonbuk,Jogador,Normal,0,74,39
+AUS10,389,10,Austrália,E,AFC,24,Yoshida,VOL,Al-Ain,Jogador,Normal,0,76,39
+AUS11,390,11,Austrália,E,AFC,24,Honda,MEI,Yokohama FM,Jogador,Normal,0,76,39
+AUS12,391,12,Austrália,E,AFC,24,Al-Dawsari,MEI,Al-Hilal,Jogador,Normal,0,79,39
+AUS13,392,13,Austrália,E,AFC,24,Honda,ATA,Al-Hilal,Jogador,Normal,0,77,39
+AUS14,393,14,Austrália,E,AFC,24,Al-Buraikan,ATA,Al-Ain,Jogador,Normal,0,76,39
+AUS15,394,15,Austrália,E,AFC,24,Kubo,ATA,Urawa Reds,Jogador,Normal,0,73,39
+AUS16,395,16,Austrália,E,AFC,24,Honda,ATA,Al-Nassr,Jogador,Normal,0,79,39
+AUS17,396,17,Austrália,E,AFC,24,Al-Buraikan,ATA,Jeonbuk,Jogador,Normal,0,77,39
+AUS18,397,18,Austrália,E,AFC,24,Salem,ATA,Al-Nassr,Jogador,Normal,0,78,39
+AUS19,398,19,Austrália,E,AFC,24,Estrela Austrália,ATA,Kashima Antlers,Estrela,Brilhante,1,83,39
+AUS20,399,20,Austrália,E,AFC,24,Estrela Austrália,ATA,Kashima Antlers,Destaque,Brilhante,1,82,39
+CHI01,400,1,Chile,E,CONMEBOL,37,Escudo Chile,ESP,—,Escudo,Brilhante,1,,41
+CHI02,401,2,Chile,E,CONMEBOL,37,Grupo E — Chile,ESP,—,Grupo,Normal,0,,41
+CHI03,402,3,Chile,E,CONMEBOL,37,López,GOL,Athletico PR,Goleiro,Normal,0,77,41
+CHI04,403,4,Chile,E,CONMEBOL,37,Rodríguez,GOL,Santos,Goleiro,Normal,0,73,41
+CHI05,404,5,Chile,E,CONMEBOL,37,González,ZAG,Athletico PR,Jogador,Normal,0,77,41
+CHI06,405,6,Chile,E,CONMEBOL,37,Martínez,ZAG,Independiente,Jogador,Normal,0,77,41
+CHI07,406,7,Chile,E,CONMEBOL,37,Herrera,ZAG,Boca Juniors,Jogador,Normal,0,75,41
+CHI08,407,8,Chile,E,CONMEBOL,37,Torres,LAT,Nacional,Jogador,Normal,0,72,41
+CHI09,408,9,Chile,E,CONMEBOL,37,Ramírez,LAT,Flamengo,Jogador,Normal,0,74,41
+CHI10,409,10,Chile,E,CONMEBOL,37,Rodríguez,VOL,River Plate,Jogador,Normal,0,72,41
+CHI11,410,11,Chile,E,CONMEBOL,37,Vargas,MEI,Corinthians,Jogador,Normal,0,73,41
+CHI12,411,12,Chile,E,CONMEBOL,37,Flores,MEI,Peñarol,Jogador,Normal,0,71,41
+CHI13,412,13,Chile,E,CONMEBOL,37,Sánchez,ATA,São Paulo,Jogador,Normal,0,76,41
+CHI14,413,14,Chile,E,CONMEBOL,37,González,ATA,Santos,Jogador,Normal,0,75,41
+CHI15,414,15,Chile,E,CONMEBOL,37,Vargas,ATA,Racing Club,Jogador,Normal,0,68,41
+CHI16,415,16,Chile,E,CONMEBOL,37,Flores,ATA,Palmeiras,Jogador,Normal,0,72,41
+CHI17,416,17,Chile,E,CONMEBOL,37,Ramírez,ATA,Independiente,Jogador,Normal,0,72,41
+CHI18,417,18,Chile,E,CONMEBOL,37,Torres,ATA,Peñarol,Jogador,Normal,0,71,41
+CHI19,418,19,Chile,E,CONMEBOL,37,Estrela Chile,ATA,River Plate,Estrela,Brilhante,1,75,41
+CHI20,419,20,Chile,E,CONMEBOL,37,Estrela Chile,ATA,River Plate,Destaque,Brilhante,1,75,41
+ING01,420,1,Inglaterra,F,UEFA,4,Escudo Inglaterra,ESP,—,Escudo,Brilhante,1,,43
+ING02,421,2,Inglaterra,F,UEFA,4,Grupo F — Inglaterra,ESP,—,Grupo,Normal,0,,43
+ING03,422,3,Inglaterra,F,UEFA,4,Jordan Pickford,GOL,Everton,Goleiro,Normal,0,82,43
+ING04,423,4,Inglaterra,F,UEFA,4,Dean Henderson,GOL,Crystal Palace,Goleiro,Normal,0,82,43
+ING05,424,5,Inglaterra,F,UEFA,4,John Stones,ZAG,Manchester City,Jogador,Normal,0,81,43
+ING06,425,6,Inglaterra,F,UEFA,4,Harry Maguire,ZAG,Manchester United,Jogador,Normal,0,80,43
+ING07,426,7,Inglaterra,F,UEFA,4,Marc Guehi,ZAG,Crystal Palace,Jogador,Normal,0,82,43
+ING08,427,8,Inglaterra,F,UEFA,4,Kieran Trippier,LAT,Newcastle,Jogador,Normal,0,86,43
+ING09,428,9,Inglaterra,F,UEFA,4,Luke Shaw,LAT,Manchester United,Jogador,Normal,0,88,43
+ING10,429,10,Inglaterra,F,UEFA,4,Declan Rice,VOL,Arsenal,Jogador,Normal,0,90,43
+ING11,430,11,Inglaterra,F,UEFA,4,Jude Bellingham,MEI,Real Madrid,Jogador,Normal,0,83,43
+ING12,431,12,Inglaterra,F,UEFA,4,Phil Foden,MEI,Manchester City,Jogador,Normal,0,87,43
+ING13,432,13,Inglaterra,F,UEFA,4,Marcus Rashford,ATA,Manchester United,Jogador,Normal,0,86,43
+ING14,433,14,Inglaterra,F,UEFA,4,Raheem Sterling,ATA,Arsenal,Jogador,Normal,0,89,43
+ING15,434,15,Inglaterra,F,UEFA,4,Jarrod Bowen,ATA,West Ham,Jogador,Normal,0,85,43
+ING16,435,16,Inglaterra,F,UEFA,4,Cole Palmer,ATA,Chelsea,Jogador,Normal,0,83,43
+ING17,436,17,Inglaterra,F,UEFA,4,Bukayo Saka,ATA,Arsenal,Jogador,Normal,0,84,43
+ING18,437,18,Inglaterra,F,UEFA,4,Anthony Gordon,ATA,Newcastle,Jogador,Normal,0,88,43
+ING19,438,19,Inglaterra,F,UEFA,4,Harry Kane,ATA,Bayern Munique,Estrela,Brilhante,1,89,43
+ING20,439,20,Inglaterra,F,UEFA,4,Harry Kane,ATA,Bayern Munique,Destaque,Brilhante,1,85,43
+EST01,440,1,Estados Unidos,F,CONCACAF,17,Escudo Estados Unidos,ESP,—,Escudo,Brilhante,1,,45
+EST02,441,2,Estados Unidos,F,CONCACAF,17,Grupo F — Estados Unidos,ESP,—,Grupo,Normal,0,,45
+EST03,442,3,Estados Unidos,F,CONCACAF,17,Johnston,GOL,Cruz Azul,Goleiro,Normal,0,77,45
+EST04,443,4,Estados Unidos,F,CONCACAF,17,Cavallini,GOL,Club América,Goleiro,Normal,0,81,45
+EST05,444,5,Estados Unidos,F,CONCACAF,17,Lawrence,ZAG,Chivas,Jogador,Normal,0,79,45
+EST06,445,6,Estados Unidos,F,CONCACAF,17,Johnston,ZAG,Cruz Azul,Jogador,Normal,0,75,45
+EST07,446,7,Estados Unidos,F,CONCACAF,17,Osorio,ZAG,LA Galaxy,Jogador,Normal,0,74,45
+EST08,447,8,Estados Unidos,F,CONCACAF,17,Hernández,LAT,LA Galaxy,Jogador,Normal,0,75,45
+EST09,448,9,Estados Unidos,F,CONCACAF,17,Lawrence,LAT,Chivas,Jogador,Normal,0,78,45
+EST10,449,10,Estados Unidos,F,CONCACAF,17,Lozano,VOL,CF Montréal,Jogador,Normal,0,80,45
+EST11,450,11,Estados Unidos,F,CONCACAF,17,Larin,MEI,LA Galaxy,Jogador,Normal,0,75,45
+EST12,451,12,Estados Unidos,F,CONCACAF,17,Davies,MEI,CF Montréal,Jogador,Normal,0,77,45
+EST13,452,13,Estados Unidos,F,CONCACAF,17,Lawrence,ATA,LA Galaxy,Jogador,Normal,0,75,45
+EST14,453,14,Estados Unidos,F,CONCACAF,17,Lawrence,ATA,LA Galaxy,Jogador,Normal,0,74,45
+EST15,454,15,Estados Unidos,F,CONCACAF,17,Lozano,ATA,CF Montréal,Jogador,Normal,0,75,45
+EST16,455,16,Estados Unidos,F,CONCACAF,17,Moreno,ATA,Cruz Azul,Jogador,Normal,0,82,45
+EST17,456,17,Estados Unidos,F,CONCACAF,17,Cavallini,ATA,Pumas,Jogador,Normal,0,78,45
+EST18,457,18,Estados Unidos,F,CONCACAF,17,Osorio,ATA,LA Galaxy,Jogador,Normal,0,76,45
+EST19,458,19,Estados Unidos,F,CONCACAF,17,Estrela Estados Unidos,ATA,Cruz Azul,Estrela,Brilhante,1,81,45
+EST20,459,20,Estados Unidos,F,CONCACAF,17,Estrela Estados Unidos,ATA,CF Montréal,Destaque,Brilhante,1,75,45
+EGI01,460,1,Egito,F,CAF,39,Escudo Egito,ESP,—,Escudo,Brilhante,1,,47
+EGI02,461,2,Egito,F,CAF,39,Grupo F — Egito,ESP,—,Grupo,Normal,0,,47
+EGI03,462,3,Egito,F,CAF,39,Asante,GOL,Mamelodi Sundowns,Goleiro,Normal,0,73,47
+EGI04,463,4,Egito,F,CAF,39,Touré,GOL,Espérance Tunis,Goleiro,Normal,0,70,47
+EGI05,464,5,Egito,F,CAF,39,Cissé,ZAG,Asante Kotoko,Jogador,Normal,0,69,47
+EGI06,465,6,Egito,F,CAF,39,Keita,ZAG,Wydad,Jogador,Normal,0,69,47
+EGI07,466,7,Egito,F,CAF,39,Diop,ZAG,Wydad,Jogador,Normal,0,73,47
+EGI08,467,8,Egito,F,CAF,39,Koné,LAT,Zamalek,Jogador,Normal,0,71,47
+EGI09,468,9,Egito,F,CAF,39,Diop,LAT,Espérance Tunis,Jogador,Normal,0,71,47
+EGI10,469,10,Egito,F,CAF,39,Ndiaye,VOL,TP Mazembe,Jogador,Normal,0,67,47
+EGI11,470,11,Egito,F,CAF,39,Koné,MEI,TP Mazembe,Jogador,Normal,0,70,47
+EGI12,471,12,Egito,F,CAF,39,Cissé,MEI,Al-Ahly,Jogador,Normal,0,75,47
+EGI13,472,13,Egito,F,CAF,39,Cissé,ATA,TP Mazembe,Jogador,Normal,0,75,47
+EGI14,473,14,Egito,F,CAF,39,Diallo,ATA,Espérance Tunis,Jogador,Normal,0,73,47
+EGI15,474,15,Egito,F,CAF,39,Mensah,ATA,TP Mazembe,Jogador,Normal,0,74,47
+EGI16,475,16,Egito,F,CAF,39,Cissé,ATA,TP Mazembe,Jogador,Normal,0,72,47
+EGI17,476,17,Egito,F,CAF,39,Asante,ATA,Asante Kotoko,Jogador,Normal,0,75,47
+EGI18,477,18,Egito,F,CAF,39,Fall,ATA,Raja Casablanca,Jogador,Normal,0,71,47
+EGI19,478,19,Egito,F,CAF,39,Estrela Egito,ATA,Raja Casablanca,Estrela,Brilhante,1,72,47
+EGI20,479,20,Egito,F,CAF,39,Estrela Egito,ATA,TP Mazembe,Destaque,Brilhante,1,77,47
+CAM01,480,1,Camarões,F,CAF,43,Escudo Camarões,ESP,—,Escudo,Brilhante,1,,49
+CAM02,481,2,Camarões,F,CAF,43,Grupo F — Camarões,ESP,—,Grupo,Normal,0,,49
+CAM03,482,3,Camarões,F,CAF,43,Diallo,GOL,TP Mazembe,Goleiro,Normal,0,72,49
+CAM04,483,4,Camarões,F,CAF,43,Osei,GOL,TP Mazembe,Goleiro,Normal,0,73,49
+CAM05,484,5,Camarões,F,CAF,43,Keita,ZAG,Kaizer Chiefs,Jogador,Normal,0,68,49
+CAM06,485,6,Camarões,F,CAF,43,Fall,ZAG,Asante Kotoko,Jogador,Normal,0,70,49
+CAM07,486,7,Camarões,F,CAF,43,Cissé,ZAG,TP Mazembe,Jogador,Normal,0,75,49
+CAM08,487,8,Camarões,F,CAF,43,Fall,LAT,Al-Ahly,Jogador,Normal,0,70,49
+CAM09,488,9,Camarões,F,CAF,43,Osei,LAT,TP Mazembe,Jogador,Normal,0,68,49
+CAM10,489,10,Camarões,F,CAF,43,Kamara,VOL,Kaizer Chiefs,Jogador,Normal,0,73,49
+CAM11,490,11,Camarões,F,CAF,43,Diallo,MEI,Mamelodi Sundowns,Jogador,Normal,0,75,49
+CAM12,491,12,Camarões,F,CAF,43,Coulibaly,MEI,Raja Casablanca,Jogador,Normal,0,73,49
+CAM13,492,13,Camarões,F,CAF,43,Coulibaly,ATA,Espérance Tunis,Jogador,Normal,0,75,49
+CAM14,493,14,Camarões,F,CAF,43,Cissé,ATA,TP Mazembe,Jogador,Normal,0,72,49
+CAM15,494,15,Camarões,F,CAF,43,Mensah,ATA,TP Mazembe,Jogador,Normal,0,70,49
+CAM16,495,16,Camarões,F,CAF,43,Kamara,ATA,Zamalek,Jogador,Normal,0,71,49
+CAM17,496,17,Camarões,F,CAF,43,Diallo,ATA,Asante Kotoko,Jogador,Normal,0,72,49
+CAM18,497,18,Camarões,F,CAF,43,Coulibaly,ATA,Raja Casablanca,Jogador,Normal,0,74,49
+CAM19,498,19,Camarões,F,CAF,43,Estrela Camarões,ATA,Zamalek,Estrela,Brilhante,1,70,49
+CAM20,499,20,Camarões,F,CAF,43,Estrela Camarões,ATA,Al-Ahly,Destaque,Brilhante,1,72,49
+TUR01,500,1,Turquia,G,UEFA,36,Escudo Turquia,ESP,—,Escudo,Brilhante,1,,51
+TUR02,501,2,Turquia,G,UEFA,36,Grupo G — Turquia,ESP,—,Grupo,Normal,0,,51
+TUR03,502,3,Turquia,G,UEFA,36,Andersen,GOL,Sparta Praha,Goleiro,Normal,0,72,51
+TUR04,503,4,Turquia,G,UEFA,36,Smith,GOL,Ajax,Goleiro,Normal,0,72,51
+TUR05,504,5,Turquia,G,UEFA,36,Fischer,ZAG,Shakhtar,Jogador,Normal,0,72,51
+TUR06,505,6,Turquia,G,UEFA,36,Andersen,ZAG,Anderlecht,Jogador,Normal,0,73,51
+TUR07,506,7,Turquia,G,UEFA,36,Eriksen,ZAG,Slavia Praha,Jogador,Normal,0,70,51
+TUR08,507,8,Turquia,G,UEFA,36,Hansen,LAT,Rangers,Jogador,Normal,0,76,51
+TUR09,508,9,Turquia,G,UEFA,36,Rossi,LAT,Slavia Praha,Jogador,Normal,0,73,51
+TUR10,509,10,Turquia,G,UEFA,36,Hansen,VOL,Feyenoord,Jogador,Normal,0,70,51
+TUR11,510,11,Turquia,G,UEFA,36,Kovač,MEI,Feyenoord,Jogador,Normal,0,72,51
+TUR12,511,12,Turquia,G,UEFA,36,Dembélé,MEI,Besiktas,Jogador,Normal,0,77,51
+TUR13,512,13,Turquia,G,UEFA,36,Andersen,ATA,Benfica,Jogador,Normal,0,76,51
+TUR14,513,14,Turquia,G,UEFA,36,Svensson,ATA,Benfica,Jogador,Normal,0,74,51
+TUR15,514,15,Turquia,G,UEFA,36,Petrov,ATA,Sparta Praha,Jogador,Normal,0,75,51
+TUR16,515,16,Turquia,G,UEFA,36,Rossi,ATA,Slavia Praha,Jogador,Normal,0,75,51
+TUR17,516,17,Turquia,G,UEFA,36,Müller,ATA,Galatasaray,Jogador,Normal,0,71,51
+TUR18,517,18,Turquia,G,UEFA,36,Renard,ATA,Shakhtar,Jogador,Normal,0,73,51
+TUR19,518,19,Turquia,G,UEFA,36,Estrela Turquia,ATA,Benfica,Estrela,Brilhante,1,77,51
+TUR20,519,20,Turquia,G,UEFA,36,Estrela Turquia,ATA,Shakhtar,Destaque,Brilhante,1,75,51
+COS01,520,1,Costa Rica,G,CONCACAF,52,Escudo Costa Rica,ESP,—,Escudo,Brilhante,1,,53
+COS02,521,2,Costa Rica,G,CONCACAF,52,Grupo G — Costa Rica,ESP,—,Grupo,Normal,0,,53
+COS03,522,3,Costa Rica,G,CONCACAF,52,Hernández,GOL,Toronto FC,Goleiro,Normal,0,71,53
+COS04,523,4,Costa Rica,G,CONCACAF,52,Buchanan,GOL,Chivas,Goleiro,Normal,0,69,53
+COS05,524,5,Costa Rica,G,CONCACAF,52,Davies,ZAG,CF Montréal,Jogador,Normal,0,73,53
+COS06,525,6,Costa Rica,G,CONCACAF,52,Lozano,ZAG,Toronto FC,Jogador,Normal,0,66,53
+COS07,526,7,Costa Rica,G,CONCACAF,52,Millar,ZAG,LA Galaxy,Jogador,Normal,0,72,53
+COS08,527,8,Costa Rica,G,CONCACAF,52,Moreno,LAT,Seattle Sounders,Jogador,Normal,0,72,53
+COS09,528,9,Costa Rica,G,CONCACAF,52,Larin,LAT,CF Montréal,Jogador,Normal,0,68,53
+COS10,529,10,Costa Rica,G,CONCACAF,52,Johnston,VOL,Seattle Sounders,Jogador,Normal,0,69,53
+COS11,530,11,Costa Rica,G,CONCACAF,52,Davies,MEI,Cruz Azul,Jogador,Normal,0,74,53
+COS12,531,12,Costa Rica,G,CONCACAF,52,Jiménez,MEI,Pumas,Jogador,Normal,0,67,53
+COS13,532,13,Costa Rica,G,CONCACAF,52,Antuna,ATA,CF Montréal,Jogador,Normal,0,72,53
+COS14,533,14,Costa Rica,G,CONCACAF,52,David,ATA,Toronto FC,Jogador,Normal,0,67,53
+COS15,534,15,Costa Rica,G,CONCACAF,52,Hernández,ATA,CF Montréal,Jogador,Normal,0,72,53
+COS16,535,16,Costa Rica,G,CONCACAF,52,Davies,ATA,Tigres UANL,Jogador,Normal,0,66,53
+COS17,536,17,Costa Rica,G,CONCACAF,52,Antuna,ATA,León,Jogador,Normal,0,71,53
+COS18,537,18,Costa Rica,G,CONCACAF,52,Moreno,ATA,León,Jogador,Normal,0,65,53
+COS19,538,19,Costa Rica,G,CONCACAF,52,Estrela Costa Rica,ATA,Seattle Sounders,Estrela,Brilhante,1,72,53
+COS20,539,20,Costa Rica,G,CONCACAF,52,Estrela Costa Rica,ATA,LA Galaxy,Destaque,Brilhante,1,67,53
+SUÍ01,540,1,Suíça,G,UEFA,19,Escudo Suíça,ESP,—,Escudo,Brilhante,1,,55
+SUÍ02,541,2,Suíça,G,UEFA,19,Grupo G — Suíça,ESP,—,Grupo,Normal,0,,55
+SUÍ03,542,3,Suíça,G,UEFA,19,Andersen,GOL,Benfica,Goleiro,Normal,0,72,55
+SUÍ04,543,4,Suíça,G,UEFA,19,Renard,GOL,Anderlecht,Goleiro,Normal,0,77,55
+SUÍ05,544,5,Suíça,G,UEFA,19,Svensson,ZAG,Dynamo Kyiv,Jogador,Normal,0,77,55
+SUÍ06,545,6,Suíça,G,UEFA,19,Fischer,ZAG,Anderlecht,Jogador,Normal,0,78,55
+SUÍ07,546,7,Suíça,G,UEFA,19,Kovač,ZAG,Benfica,Jogador,Normal,0,74,55
+SUÍ08,547,8,Suíça,G,UEFA,19,Svensson,LAT,Besiktas,Jogador,Normal,0,80,55
+SUÍ09,548,9,Suíça,G,UEFA,19,Svensson,LAT,Feyenoord,Jogador,Normal,0,77,55
+SUÍ10,549,10,Suíça,G,UEFA,19,Popescu,VOL,Anderlecht,Jogador,Normal,0,79,55
+SUÍ11,550,11,Suíça,G,UEFA,19,Popescu,MEI,Besiktas,Jogador,Normal,0,81,55
+SUÍ12,551,12,Suíça,G,UEFA,19,Novak,MEI,Galatasaray,Jogador,Normal,0,76,55
+SUÍ13,552,13,Suíça,G,UEFA,19,Weber,ATA,Feyenoord,Jogador,Normal,0,76,55
+SUÍ14,553,14,Suíça,G,UEFA,19,Eriksen,ATA,Ajax,Jogador,Normal,0,75,55
+SUÍ15,554,15,Suíça,G,UEFA,19,Andersen,ATA,Galatasaray,Jogador,Normal,0,71,55
+SUÍ16,555,16,Suíça,G,UEFA,19,Hansen,ATA,Ajax,Jogador,Normal,0,73,55
+SUÍ17,556,17,Suíça,G,UEFA,19,Fischer,ATA,Feyenoord,Jogador,Normal,0,77,55
+SUÍ18,557,18,Suíça,G,UEFA,19,Petrov,ATA,Benfica,Jogador,Normal,0,77,55
+SUÍ19,558,19,Suíça,G,UEFA,19,Estrela Suíça,ATA,Ajax,Estrela,Brilhante,1,77,55
+SUÍ20,559,20,Suíça,G,UEFA,19,Estrela Suíça,ATA,Ajax,Destaque,Brilhante,1,81,55
+SÉR01,560,1,Sérvia,G,UEFA,33,Escudo Sérvia,ESP,—,Escudo,Brilhante,1,,57
+SÉR02,561,2,Sérvia,G,UEFA,33,Grupo G — Sérvia,ESP,—,Grupo,Normal,0,,57
+SÉR03,562,3,Sérvia,G,UEFA,33,Hansen,GOL,Feyenoord,Goleiro,Normal,0,72,57
+SÉR04,563,4,Sérvia,G,UEFA,33,Smith,GOL,Feyenoord,Goleiro,Normal,0,67,57
+SÉR05,564,5,Sérvia,G,UEFA,33,Müller,ZAG,Celtic,Jogador,Normal,0,73,57
+SÉR06,565,6,Sérvia,G,UEFA,33,Smith,ZAG,Shakhtar,Jogador,Normal,0,77,57
+SÉR07,566,7,Sérvia,G,UEFA,33,Fischer,ZAG,Benfica,Jogador,Normal,0,73,57
+SÉR08,567,8,Sérvia,G,UEFA,33,Kovač,LAT,Rangers,Jogador,Normal,0,73,57
+SÉR09,568,9,Sérvia,G,UEFA,33,Fischer,LAT,Anderlecht,Jogador,Normal,0,74,57
+SÉR10,569,10,Sérvia,G,UEFA,33,Novak,VOL,Porto,Jogador,Normal,0,72,57
+SÉR11,570,11,Sérvia,G,UEFA,33,Eriksen,MEI,Sparta Praha,Jogador,Normal,0,74,57
+SÉR12,571,12,Sérvia,G,UEFA,33,Rossi,MEI,Sparta Praha,Jogador,Normal,0,69,57
+SÉR13,572,13,Sérvia,G,UEFA,33,Dembélé,ATA,Anderlecht,Jogador,Normal,0,70,57
+SÉR14,573,14,Sérvia,G,UEFA,33,Müller,ATA,Porto,Jogador,Normal,0,69,57
+SÉR15,574,15,Sérvia,G,UEFA,33,Petrov,ATA,Benfica,Jogador,Normal,0,70,57
+SÉR16,575,16,Sérvia,G,UEFA,33,Rossi,ATA,Celtic,Jogador,Normal,0,77,57
+SÉR17,576,17,Sérvia,G,UEFA,33,Renard,ATA,Rangers,Jogador,Normal,0,76,57
+SÉR18,577,18,Sérvia,G,UEFA,33,Svensson,ATA,Slavia Praha,Jogador,Normal,0,71,57
+SÉR19,578,19,Sérvia,G,UEFA,33,Estrela Sérvia,ATA,Besiktas,Estrela,Brilhante,1,77,57
+SÉR20,579,20,Sérvia,G,UEFA,33,Estrela Sérvia,ATA,Anderlecht,Destaque,Brilhante,1,77,57
+BÉL01,580,1,Bélgica,H,UEFA,9,Escudo Bélgica,ESP,—,Escudo,Brilhante,1,,59
+BÉL02,581,2,Bélgica,H,UEFA,9,Grupo H — Bélgica,ESP,—,Grupo,Normal,0,,59
+BÉL03,582,3,Bélgica,H,UEFA,9,Koen Casteels,GOL,Wolfsburg,Goleiro,Normal,0,84,59
+BÉL04,583,4,Bélgica,H,UEFA,9,Simon Mignolet,GOL,Club Brugge,Goleiro,Normal,0,83,59
+BÉL05,584,5,Bélgica,H,UEFA,9,Wout Faes,ZAG,Leicester,Jogador,Normal,0,78,59
+BÉL06,585,6,Bélgica,H,UEFA,9,Jan Vertonghen,ZAG,Anderlecht,Jogador,Normal,0,82,59
+BÉL07,586,7,Bélgica,H,UEFA,9,Zeno Debast,ZAG,Sporting CP,Jogador,Normal,0,84,59
+BÉL08,587,8,Bélgica,H,UEFA,9,Thomas Meunier,LAT,Trabzonspor,Jogador,Normal,0,84,59
+BÉL09,588,9,Bélgica,H,UEFA,9,Arthur Theate,LAT,Rennes,Jogador,Normal,0,78,59
+BÉL10,589,10,Bélgica,H,UEFA,9,Axel Witsel,VOL,Atlético Madrid,Jogador,Normal,0,83,59
+BÉL11,590,11,Bélgica,H,UEFA,9,Youri Tielemans,MEI,Aston Villa,Jogador,Normal,0,83,59
+BÉL12,591,12,Bélgica,H,UEFA,9,Leandro Trossard,ATA,Arsenal,Jogador,Normal,0,76,59
+BÉL13,592,13,Bélgica,H,UEFA,9,Dries Mertens,ATA,Galatasaray,Jogador,Normal,0,82,59
+BÉL14,593,14,Bélgica,H,UEFA,9,Lois Openda,ATA,Leipzig,Jogador,Normal,0,80,59
+BÉL15,594,15,Bélgica,H,UEFA,9,Loïs Openda,ATA,Leipzig,Jogador,Normal,0,83,59
+BÉL16,595,16,Bélgica,H,UEFA,9,Romelu Lukaku,ATA,Roma,Jogador,Normal,0,76,59
+BÉL17,596,17,Bélgica,H,UEFA,9,Jeremy Doku,ATA,Manchester City,Jogador,Normal,0,82,59
+BÉL18,597,18,Bélgica,H,UEFA,9,Charles De Ketelaere,MEI,Atalanta,Jogador,Normal,0,85,59
+BÉL19,598,19,Bélgica,H,UEFA,9,Eden Hazard,ATA,Aposentado,Estrela,Brilhante,1,82,59
+BÉL20,599,20,Bélgica,H,UEFA,9,Eden Hazard,ATA,Aposentado,Destaque,Brilhante,1,80,59
+URU01,600,1,Uruguai,H,CONMEBOL,12,Escudo Uruguai,ESP,—,Escudo,Brilhante,1,,61
+URU02,601,2,Uruguai,H,CONMEBOL,12,Grupo H — Uruguai,ESP,—,Grupo,Normal,0,,61
+URU03,602,3,Uruguai,H,CONMEBOL,12,Sergio Rochet,GOL,Internacional,Goleiro,Normal,0,77,61
+URU04,603,4,Uruguai,H,CONMEBOL,12,Sebastián Sosa,GOL,Independiente,Goleiro,Normal,0,81,61
+URU05,604,5,Uruguai,H,CONMEBOL,12,José María Giménez,ZAG,Atlético Madrid,Jogador,Normal,0,83,61
+URU06,605,6,Uruguai,H,CONMEBOL,12,Ronald Araújo,ZAG,Barcelona,Jogador,Normal,0,78,61
+URU07,606,7,Uruguai,H,CONMEBOL,12,Sebastián Cáceres,ZAG,Club América,Jogador,Normal,0,77,61
+URU08,607,8,Uruguai,H,CONMEBOL,12,Mathías Olivera,LAT,Napoli,Jogador,Normal,0,78,61
+URU09,608,9,Uruguai,H,CONMEBOL,12,Nahitan Nández,LAT,Cagliari,Jogador,Normal,0,79,61
+URU10,609,10,Uruguai,H,CONMEBOL,12,Rodrigo Bentancur,VOL,Tottenham,Jogador,Normal,0,79,61
+URU11,610,11,Uruguai,H,CONMEBOL,12,Federico Valverde,MEI,Real Madrid,Jogador,Normal,0,82,61
+URU12,611,12,Uruguai,H,CONMEBOL,12,Matías Vecino,VOL,Lazio,Jogador,Normal,0,80,61
+URU13,612,13,Uruguai,H,CONMEBOL,12,Giorgian de Arrascaeta,MEI,Flamengo,Jogador,Normal,0,78,61
+URU14,613,14,Uruguai,H,CONMEBOL,12,Facundo Torres,ATA,Orlando City,Jogador,Normal,0,81,61
+URU15,614,15,Uruguai,H,CONMEBOL,12,Agustín Canobbio,ATA,Athletico PR,Jogador,Normal,0,79,61
+URU16,615,16,Uruguai,H,CONMEBOL,12,Darwin Núñez,ATA,Liverpool,Jogador,Normal,0,79,61
+URU17,616,17,Uruguai,H,CONMEBOL,12,Maximiliano Araújo,ATA,Sporting CP,Jogador,Normal,0,78,61
+URU18,617,18,Uruguai,H,CONMEBOL,12,Manuel Ugarte,VOL,Manchester United,Jogador,Normal,0,80,61
+URU19,618,19,Uruguai,H,CONMEBOL,12,Luis Suárez,ATA,Inter Miami,Estrela,Brilhante,1,83,61
+URU20,619,20,Uruguai,H,CONMEBOL,12,Luis Suárez,ATA,Inter Miami,Destaque,Brilhante,1,83,61
+GAN01,620,1,Gana,H,CAF,60,Escudo Gana,ESP,—,Escudo,Brilhante,1,,63
+GAN02,621,2,Gana,H,CAF,60,Grupo H — Gana,ESP,—,Grupo,Normal,0,,63
+GAN03,622,3,Gana,H,CAF,60,Traore,GOL,Raja Casablanca,Goleiro,Normal,0,67,63
+GAN04,623,4,Gana,H,CAF,60,Mensah,GOL,Raja Casablanca,Goleiro,Normal,0,68,63
+GAN05,624,5,Gana,H,CAF,60,Traore,ZAG,Asante Kotoko,Jogador,Normal,0,64,63
+GAN06,625,6,Gana,H,CAF,60,Osei,ZAG,Wydad,Jogador,Normal,0,66,63
+GAN07,626,7,Gana,H,CAF,60,Kamara,ZAG,Wydad,Jogador,Normal,0,65,63
+GAN08,627,8,Gana,H,CAF,60,Diallo,LAT,Wydad,Jogador,Normal,0,68,63
+GAN09,628,9,Gana,H,CAF,60,Touré,LAT,Mamelodi Sundowns,Jogador,Normal,0,65,63
+GAN10,629,10,Gana,H,CAF,60,Traore,VOL,Kaizer Chiefs,Jogador,Normal,0,71,63
+GAN11,630,11,Gana,H,CAF,60,Touré,MEI,TP Mazembe,Jogador,Normal,0,66,63
+GAN12,631,12,Gana,H,CAF,60,Mbaye,MEI,Asante Kotoko,Jogador,Normal,0,67,63
+GAN13,632,13,Gana,H,CAF,60,Ndiaye,ATA,Zamalek,Jogador,Normal,0,70,63
+GAN14,633,14,Gana,H,CAF,60,Diallo,ATA,TP Mazembe,Jogador,Normal,0,70,63
+GAN15,634,15,Gana,H,CAF,60,Coulibaly,ATA,Mamelodi Sundowns,Jogador,Normal,0,64,63
+GAN16,635,16,Gana,H,CAF,60,Traore,ATA,Raja Casablanca,Jogador,Normal,0,67,63
+GAN17,636,17,Gana,H,CAF,60,Kamara,ATA,Al-Ahly,Jogador,Normal,0,68,63
+GAN18,637,18,Gana,H,CAF,60,Osei,ATA,Mamelodi Sundowns,Jogador,Normal,0,67,63
+GAN19,638,19,Gana,H,CAF,60,Estrela Gana,ATA,Al-Ahly,Estrela,Brilhante,1,68,63
+GAN20,639,20,Gana,H,CAF,60,Estrela Gana,ATA,Kaizer Chiefs,Destaque,Brilhante,1,72,63
+PAR01,640,1,Paraguai,H,CONMEBOL,54,Escudo Paraguai,ESP,—,Escudo,Brilhante,1,,65
+PAR02,641,2,Paraguai,H,CONMEBOL,54,Grupo H — Paraguai,ESP,—,Grupo,Normal,0,,65
+PAR03,642,3,Paraguai,H,CONMEBOL,54,Flores,GOL,São Paulo,Goleiro,Normal,0,68,65
+PAR04,643,4,Paraguai,H,CONMEBOL,54,Fernández,GOL,Corinthians,Goleiro,Normal,0,69,65
+PAR05,644,5,Paraguai,H,CONMEBOL,54,Flores,ZAG,São Paulo,Jogador,Normal,0,65,65
+PAR06,645,6,Paraguai,H,CONMEBOL,54,Sánchez,ZAG,Peñarol,Jogador,Normal,0,71,65
+PAR07,646,7,Paraguai,H,CONMEBOL,54,López,ZAG,Peñarol,Jogador,Normal,0,72,65
+PAR08,647,8,Paraguai,H,CONMEBOL,54,Santos,LAT,Boca Juniors,Jogador,Normal,0,65,65
+PAR09,648,9,Paraguai,H,CONMEBOL,54,Martínez,LAT,Racing Club,Jogador,Normal,0,69,65
+PAR10,649,10,Paraguai,H,CONMEBOL,54,Rodríguez,VOL,Independiente,Jogador,Normal,0,67,65
+PAR11,650,11,Paraguai,H,CONMEBOL,54,Castillo,MEI,Santos,Jogador,Normal,0,63,65
+PAR12,651,12,Paraguai,H,CONMEBOL,54,Sánchez,MEI,Palmeiras,Jogador,Normal,0,66,65
+PAR13,652,13,Paraguai,H,CONMEBOL,54,Rodríguez,ATA,Peñarol,Jogador,Normal,0,68,65
+PAR14,653,14,Paraguai,H,CONMEBOL,54,Vargas,ATA,Athletico PR,Jogador,Normal,0,68,65
+PAR15,654,15,Paraguai,H,CONMEBOL,54,Ramírez,ATA,Flamengo,Jogador,Normal,0,68,65
+PAR16,655,16,Paraguai,H,CONMEBOL,54,Castillo,ATA,Santos,Jogador,Normal,0,69,65
+PAR17,656,17,Paraguai,H,CONMEBOL,54,Martínez,ATA,Flamengo,Jogador,Normal,0,64,65
+PAR18,657,18,Paraguai,H,CONMEBOL,54,Ramírez,ATA,Peñarol,Jogador,Normal,0,67,65
+PAR19,658,19,Paraguai,H,CONMEBOL,54,Estrela Paraguai,ATA,São Paulo,Estrela,Brilhante,1,69,65
+PAR20,659,20,Paraguai,H,CONMEBOL,54,Estrela Paraguai,ATA,Flamengo,Destaque,Brilhante,1,71,65
+POL01,660,1,Polônia,I,UEFA,29,Escudo Polônia,ESP,—,Escudo,Brilhante,1,,67
+POL02,661,2,Polônia,I,UEFA,29,Grupo I — Polônia,ESP,—,Grupo,Normal,0,,67
+POL03,662,3,Polônia,I,UEFA,29,Eriksen,GOL,Celtic,Goleiro,Normal,0,73,67
+POL04,663,4,Polônia,I,UEFA,29,Petrov,GOL,Anderlecht,Goleiro,Normal,0,78,67
+POL05,664,5,Polônia,I,UEFA,29,Fischer,ZAG,Benfica,Jogador,Normal,0,71,67
+POL06,665,6,Polônia,I,UEFA,29,Svensson,ZAG,Dynamo Kyiv,Jogador,Normal,0,75,67
+POL07,666,7,Polônia,I,UEFA,29,Petrov,ZAG,Celtic,Jogador,Normal,0,72,67
+POL08,667,8,Polônia,I,UEFA,29,Renard,LAT,Benfica,Jogador,Normal,0,76,67
+POL09,668,9,Polônia,I,UEFA,29,Rossi,LAT,Anderlecht,Jogador,Normal,0,72,67
+POL10,669,10,Polônia,I,UEFA,29,Smith,VOL,Anderlecht,Jogador,Normal,0,80,67
+POL11,670,11,Polônia,I,UEFA,29,Petrov,MEI,Celtic,Jogador,Normal,0,78,67
+POL12,671,12,Polônia,I,UEFA,29,Eriksen,MEI,Besiktas,Jogador,Normal,0,81,67
+POL13,672,13,Polônia,I,UEFA,29,Fischer,ATA,Anderlecht,Jogador,Normal,0,75,67
+POL14,673,14,Polônia,I,UEFA,29,Weber,ATA,Celtic,Jogador,Normal,0,72,67
+POL15,674,15,Polônia,I,UEFA,29,Dembélé,ATA,Ajax,Jogador,Normal,0,79,67
+POL16,675,16,Polônia,I,UEFA,29,Smith,ATA,Sparta Praha,Jogador,Normal,0,75,67
+POL17,676,17,Polônia,I,UEFA,29,Eriksen,ATA,Slavia Praha,Jogador,Normal,0,77,67
+POL18,677,18,Polônia,I,UEFA,29,Renard,ATA,Galatasaray,Jogador,Normal,0,80,67
+POL19,678,19,Polônia,I,UEFA,29,Estrela Polônia,ATA,Celtic,Estrela,Brilhante,1,77,67
+POL20,679,20,Polônia,I,UEFA,29,Estrela Polônia,ATA,Sparta Praha,Destaque,Brilhante,1,78,67
+COR01,680,1,Coreia do Sul,I,AFC,22,Escudo Coreia do Sul,ESP,—,Escudo,Brilhante,1,,69
+COR02,681,2,Coreia do Sul,I,AFC,22,Grupo I — Coreia do Sul,ESP,—,Grupo,Normal,0,,69
+COR03,682,3,Coreia do Sul,I,AFC,22,Al-Dawsari,GOL,Kashima Antlers,Goleiro,Normal,0,77,69
+COR04,683,4,Coreia do Sul,I,AFC,22,Yoshida,GOL,Yokohama FM,Goleiro,Normal,0,78,69
+COR05,684,5,Coreia do Sul,I,AFC,22,Kagawa,ZAG,Al-Ittihad,Jogador,Normal,0,74,69
+COR06,685,6,Coreia do Sul,I,AFC,22,Endo,ZAG,Melbourne City,Jogador,Normal,0,75,69
+COR07,686,7,Coreia do Sul,I,AFC,22,Salem,ZAG,Al-Ain,Jogador,Normal,0,80,69
+COR08,687,8,Coreia do Sul,I,AFC,22,Endo,LAT,Ulsan,Jogador,Normal,0,75,69
+COR09,688,9,Coreia do Sul,I,AFC,22,Al-Buraikan,LAT,Jeonbuk,Jogador,Normal,0,77,69
+COR10,689,10,Coreia do Sul,I,AFC,22,Choi,VOL,Urawa Reds,Jogador,Normal,0,80,69
+COR11,690,11,Coreia do Sul,I,AFC,22,Honda,MEI,Urawa Reds,Jogador,Normal,0,81,69
+COR12,691,12,Coreia do Sul,I,AFC,22,Nishino,MEI,Ulsan,Jogador,Normal,0,74,69
+COR13,692,13,Coreia do Sul,I,AFC,22,Salem,ATA,Melbourne City,Jogador,Normal,0,76,69
+COR14,693,14,Coreia do Sul,I,AFC,22,Al-Buraikan,ATA,Ulsan,Jogador,Normal,0,78,69
+COR15,694,15,Coreia do Sul,I,AFC,22,Morita,ATA,Al-Ittihad,Jogador,Normal,0,74,69
+COR16,695,16,Coreia do Sul,I,AFC,22,Kim,ATA,Al-Ittihad,Jogador,Normal,0,77,69
+COR17,696,17,Coreia do Sul,I,AFC,22,Yoshida,ATA,Jeonbuk,Jogador,Normal,0,77,69
+COR18,697,18,Coreia do Sul,I,AFC,22,Lee,ATA,Melbourne City,Jogador,Normal,0,76,69
+COR19,698,19,Coreia do Sul,I,AFC,22,Estrela Coreia do Sul,ATA,Al-Ain,Estrela,Brilhante,1,77,69
+COR20,699,20,Coreia do Sul,I,AFC,22,Estrela Coreia do Sul,ATA,Al-Hilal,Destaque,Brilhante,1,75,69
+ÁFR01,700,1,África do Sul,I,CAF,57,Escudo África do Sul,ESP,—,Escudo,Brilhante,1,,71
+ÁFR02,701,2,África do Sul,I,CAF,57,Grupo I — África do Sul,ESP,—,Grupo,Normal,0,,71
+ÁFR03,702,3,África do Sul,I,CAF,57,Diop,GOL,Wydad,Goleiro,Normal,0,67,71
+ÁFR04,703,4,África do Sul,I,CAF,57,Ndiaye,GOL,Mamelodi Sundowns,Goleiro,Normal,0,67,71
+ÁFR05,704,5,África do Sul,I,CAF,57,Fall,ZAG,TP Mazembe,Jogador,Normal,0,67,71
+ÁFR06,705,6,África do Sul,I,CAF,57,Traore,ZAG,Espérance Tunis,Jogador,Normal,0,73,71
+ÁFR07,706,7,África do Sul,I,CAF,57,Osei,ZAG,Asante Kotoko,Jogador,Normal,0,69,71
+ÁFR08,707,8,África do Sul,I,CAF,57,Coulibaly,LAT,Kaizer Chiefs,Jogador,Normal,0,70,71
+ÁFR09,708,9,África do Sul,I,CAF,57,Mbaye,LAT,Al-Ahly,Jogador,Normal,0,68,71
+ÁFR10,709,10,África do Sul,I,CAF,57,Traore,VOL,Raja Casablanca,Jogador,Normal,0,67,71
+ÁFR11,710,11,África do Sul,I,CAF,57,Osei,MEI,Mamelodi Sundowns,Jogador,Normal,0,66,71
+ÁFR12,711,12,África do Sul,I,CAF,57,Asante,MEI,Zamalek,Jogador,Normal,0,68,71
+ÁFR13,712,13,África do Sul,I,CAF,57,Traore,ATA,Zamalek,Jogador,Normal,0,69,71
+ÁFR14,713,14,África do Sul,I,CAF,57,Keita,ATA,Mamelodi Sundowns,Jogador,Normal,0,62,71
+ÁFR15,714,15,África do Sul,I,CAF,57,Diallo,ATA,Espérance Tunis,Jogador,Normal,0,70,71
+ÁFR16,715,16,África do Sul,I,CAF,57,Diallo,ATA,Mamelodi Sundowns,Jogador,Normal,0,67,71
+ÁFR17,716,17,África do Sul,I,CAF,57,Coulibaly,ATA,TP Mazembe,Jogador,Normal,0,63,71
+ÁFR18,717,18,África do Sul,I,CAF,57,Koné,ATA,Asante Kotoko,Jogador,Normal,0,71,71
+ÁFR19,718,19,África do Sul,I,CAF,57,Estrela África do Sul,ATA,Wydad,Estrela,Brilhante,1,69,71
+ÁFR20,719,20,África do Sul,I,CAF,57,Estrela África do Sul,ATA,Wydad,Destaque,Brilhante,1,70,71
+IRÃ01,720,1,Irã,I,AFC,21,Escudo Irã,ESP,—,Escudo,Brilhante,1,,73
+IRÃ02,721,2,Irã,I,AFC,21,Grupo I — Irã,ESP,—,Grupo,Normal,0,,73
+IRÃ03,722,3,Irã,I,AFC,21,Yoshida,GOL,Ulsan,Goleiro,Normal,0,78,73
+IRÃ04,723,4,Irã,I,AFC,21,Morita,GOL,Urawa Reds,Goleiro,Normal,0,76,73
+IRÃ05,724,5,Irã,I,AFC,21,Al-Buraikan,ZAG,Yokohama FM,Jogador,Normal,0,73,73
+IRÃ06,725,6,Irã,I,AFC,21,Choi,ZAG,Melbourne City,Jogador,Normal,0,80,73
+IRÃ07,726,7,Irã,I,AFC,21,Al-Dawsari,ZAG,Melbourne City,Jogador,Normal,0,77,73
+IRÃ08,727,8,Irã,I,AFC,21,Morita,LAT,Al-Hilal,Jogador,Normal,0,79,73
+IRÃ09,728,9,Irã,I,AFC,21,Kagawa,LAT,Kashima Antlers,Jogador,Normal,0,79,73
+IRÃ10,729,10,Irã,I,AFC,21,Endo,VOL,Al-Ittihad,Jogador,Normal,0,71,73
+IRÃ11,730,11,Irã,I,AFC,21,Kagawa,MEI,Jeonbuk,Jogador,Normal,0,78,73
+IRÃ12,731,12,Irã,I,AFC,21,Al-Dawsari,MEI,Ulsan,Jogador,Normal,0,78,73
+IRÃ13,732,13,Irã,I,AFC,21,Al-Dawsari,ATA,Melbourne City,Jogador,Normal,0,81,73
+IRÃ14,733,14,Irã,I,AFC,21,Al-Dawsari,ATA,Urawa Reds,Jogador,Normal,0,77,73
+IRÃ15,734,15,Irã,I,AFC,21,Al-Faraj,ATA,Melbourne City,Jogador,Normal,0,75,73
+IRÃ16,735,16,Irã,I,AFC,21,Choi,ATA,Ulsan,Jogador,Normal,0,75,73
+IRÃ17,736,17,Irã,I,AFC,21,Salem,ATA,Yokohama FM,Jogador,Normal,0,77,73
+IRÃ18,737,18,Irã,I,AFC,21,Kubo,ATA,Kashima Antlers,Jogador,Normal,0,75,73
+IRÃ19,738,19,Irã,I,AFC,21,Estrela Irã,ATA,Ulsan,Estrela,Brilhante,1,77,73
+IRÃ20,739,20,Irã,I,AFC,21,Estrela Irã,ATA,Al-Hilal,Destaque,Brilhante,1,79,73
+ITÁ01,740,1,Itália,J,UEFA,10,Escudo Itália,ESP,—,Escudo,Brilhante,1,,75
+ITÁ02,741,2,Itália,J,UEFA,10,Grupo J — Itália,ESP,—,Grupo,Normal,0,,75
+ITÁ03,742,3,Itália,J,UEFA,10,Gianluigi Donnarumma,GOL,PSG,Goleiro,Normal,0,86,75
+ITÁ04,743,4,Itália,J,UEFA,10,Alex Meret,GOL,Napoli,Goleiro,Normal,0,81,75
+ITÁ05,744,5,Itália,J,UEFA,10,Giorgio Scalvini,ZAG,Atalanta,Jogador,Normal,0,85,75
+ITÁ06,745,6,Itália,J,UEFA,10,Alessandro Bastoni,ZAG,Inter de Milão,Jogador,Normal,0,82,75
+ITÁ07,746,7,Itália,J,UEFA,10,Riccardo Calafiori,ZAG,Arsenal,Jogador,Normal,0,79,75
+ITÁ08,747,8,Itália,J,UEFA,10,Giovanni Di Lorenzo,LAT,Napoli,Jogador,Normal,0,81,75
+ITÁ09,748,9,Itália,J,UEFA,10,Federico Dimarco,LAT,Inter de Milão,Jogador,Normal,0,82,75
+ITÁ10,749,10,Itália,J,UEFA,10,Nicolo Barella,MEI,Inter de Milão,Jogador,Normal,0,79,75
+ITÁ11,750,11,Itália,J,UEFA,10,Manuel Locatelli,VOL,Juventus,Jogador,Normal,0,84,75
+ITÁ12,751,12,Itália,J,UEFA,10,Davide Frattesi,MEI,Inter de Milão,Jogador,Normal,0,77,75
+ITÁ13,752,13,Itália,J,UEFA,10,Sandro Tonali,MEI,Newcastle,Jogador,Normal,0,82,75
+ITÁ14,753,14,Itália,J,UEFA,10,Federico Chiesa,ATA,Liverpool,Jogador,Normal,0,82,75
+ITÁ15,754,15,Itália,J,UEFA,10,Giacomo Raspadori,ATA,Napoli,Jogador,Normal,0,79,75
+ITÁ16,755,16,Itália,J,UEFA,10,Matteo Politano,ATA,Napoli,Jogador,Normal,0,79,75
+ITÁ17,756,17,Itália,J,UEFA,10,Mateo Retegui,ATA,Atalanta,Jogador,Normal,0,85,75
+ITÁ18,757,18,Itália,J,UEFA,10,Lorenzo Pellegrini,MEI,Roma,Jogador,Normal,0,82,75
+ITÁ19,758,19,Itália,J,UEFA,10,Giacomo Raspadori,ATA,Napoli,Estrela,Brilhante,1,84,75
+ITÁ20,759,20,Itália,J,UEFA,10,Giacomo Raspadori,ATA,Napoli,Destaque,Brilhante,1,83,75
+CAN01,760,1,Canadá,J,CONCACAF,38,Escudo Canadá,ESP,—,Escudo,Brilhante,1,,77
+CAN02,761,2,Canadá,J,CONCACAF,38,Grupo J — Canadá,ESP,—,Grupo,Normal,0,,77
+CAN03,762,3,Canadá,J,CONCACAF,38,David,GOL,Pumas,Goleiro,Normal,0,73,77
+CAN04,763,4,Canadá,J,CONCACAF,38,Osorio,GOL,Tigres UANL,Goleiro,Normal,0,72,77
+CAN05,764,5,Canadá,J,CONCACAF,38,Jiménez,ZAG,Club América,Jogador,Normal,0,70,77
+CAN06,765,6,Canadá,J,CONCACAF,38,Osorio,ZAG,CF Montréal,Jogador,Normal,0,69,77
+CAN07,766,7,Canadá,J,CONCACAF,38,David,ZAG,León,Jogador,Normal,0,73,77
+CAN08,767,8,Canadá,J,CONCACAF,38,Lozano,LAT,Chivas,Jogador,Normal,0,70,77
+CAN09,768,9,Canadá,J,CONCACAF,38,Davies,LAT,Toronto FC,Jogador,Normal,0,72,77
+CAN10,769,10,Canadá,J,CONCACAF,38,Antuna,VOL,Tigres UANL,Jogador,Normal,0,77,77
+CAN11,770,11,Canadá,J,CONCACAF,38,Larin,MEI,León,Jogador,Normal,0,75,77
+CAN12,771,12,Canadá,J,CONCACAF,38,Larin,MEI,Pumas,Jogador,Normal,0,78,77
+CAN13,772,13,Canadá,J,CONCACAF,38,Lozano,ATA,Pumas,Jogador,Normal,0,75,77
+CAN14,773,14,Canadá,J,CONCACAF,38,Buchanan,ATA,Pumas,Jogador,Normal,0,76,77
+CAN15,774,15,Canadá,J,CONCACAF,38,Lawrence,ATA,León,Jogador,Normal,0,73,77
+CAN16,775,16,Canadá,J,CONCACAF,38,Jiménez,ATA,CF Montréal,Jogador,Normal,0,72,77
+CAN17,776,17,Canadá,J,CONCACAF,38,Lozano,ATA,Cruz Azul,Jogador,Normal,0,76,77
+CAN18,777,18,Canadá,J,CONCACAF,38,Cavallini,ATA,Toronto FC,Jogador,Normal,0,73,77
+CAN19,778,19,Canadá,J,CONCACAF,38,Estrela Canadá,ATA,LA Galaxy,Estrela,Brilhante,1,72,77
+CAN20,779,20,Canadá,J,CONCACAF,38,Estrela Canadá,ATA,Chivas,Destaque,Brilhante,1,77,77
+CON01,780,1,Congo,J,CAF,85,Escudo Congo,ESP,—,Escudo,Brilhante,1,,79
+CON02,781,2,Congo,J,CAF,85,Grupo J — Congo,ESP,—,Grupo,Normal,0,,79
+CON03,782,3,Congo,J,CAF,85,Diallo,GOL,Mamelodi Sundowns,Goleiro,Normal,0,64,79
+CON04,783,4,Congo,J,CAF,85,Traore,GOL,Kaizer Chiefs,Goleiro,Normal,0,62,79
+CON05,784,5,Congo,J,CAF,85,Osei,ZAG,Mamelodi Sundowns,Jogador,Normal,0,66,79
+CON06,785,6,Congo,J,CAF,85,Diop,ZAG,Espérance Tunis,Jogador,Normal,0,60,79
+CON07,786,7,Congo,J,CAF,85,Osei,ZAG,Raja Casablanca,Jogador,Normal,0,66,79
+CON08,787,8,Congo,J,CAF,85,Diallo,LAT,Asante Kotoko,Jogador,Normal,0,61,79
+CON09,788,9,Congo,J,CAF,85,Cissé,LAT,Raja Casablanca,Jogador,Normal,0,66,79
+CON10,789,10,Congo,J,CAF,85,Traore,VOL,Kaizer Chiefs,Jogador,Normal,0,65,79
+CON11,790,11,Congo,J,CAF,85,Touré,MEI,TP Mazembe,Jogador,Normal,0,62,79
+CON12,791,12,Congo,J,CAF,85,Keita,MEI,Al-Ahly,Jogador,Normal,0,63,79
+CON13,792,13,Congo,J,CAF,85,Touré,ATA,Kaizer Chiefs,Jogador,Normal,0,59,79
+CON14,793,14,Congo,J,CAF,85,Traore,ATA,Raja Casablanca,Jogador,Normal,0,62,79
+CON15,794,15,Congo,J,CAF,85,Keita,ATA,TP Mazembe,Jogador,Normal,0,61,79
+CON16,795,16,Congo,J,CAF,85,Coulibaly,ATA,Asante Kotoko,Jogador,Normal,0,62,79
+CON17,796,17,Congo,J,CAF,85,Fall,ATA,Wydad,Jogador,Normal,0,66,79
+CON18,797,18,Congo,J,CAF,85,Osei,ATA,Zamalek,Jogador,Normal,0,68,79
+CON19,798,19,Congo,J,CAF,85,Estrela Congo,ATA,Kaizer Chiefs,Estrela,Brilhante,1,66,79
+CON20,799,20,Congo,J,CAF,85,Estrela Congo,ATA,TP Mazembe,Destaque,Brilhante,1,66,79
+PER01,800,1,Peru,J,CONMEBOL,42,Escudo Peru,ESP,—,Escudo,Brilhante,1,,81
+PER02,801,2,Peru,J,CONMEBOL,42,Grupo J — Peru,ESP,—,Grupo,Normal,0,,81
+PER03,802,3,Peru,J,CONMEBOL,42,Silva,GOL,Racing Club,Goleiro,Normal,0,73,81
+PER04,803,4,Peru,J,CONMEBOL,42,González,GOL,São Paulo,Goleiro,Normal,0,71,81
+PER05,804,5,Peru,J,CONMEBOL,42,González,ZAG,Peñarol,Jogador,Normal,0,70,81
+PER06,805,6,Peru,J,CONMEBOL,42,Flores,ZAG,Peñarol,Jogador,Normal,0,76,81
+PER07,806,7,Peru,J,CONMEBOL,42,Herrera,ZAG,Independiente,Jogador,Normal,0,70,81
+PER08,807,8,Peru,J,CONMEBOL,42,Silva,LAT,Athletico PR,Jogador,Normal,0,72,81
+PER09,808,9,Peru,J,CONMEBOL,42,González,LAT,Palmeiras,Jogador,Normal,0,76,81
+PER10,809,10,Peru,J,CONMEBOL,42,Castillo,VOL,São Paulo,Jogador,Normal,0,71,81
+PER11,810,11,Peru,J,CONMEBOL,42,Flores,MEI,River Plate,Jogador,Normal,0,72,81
+PER12,811,12,Peru,J,CONMEBOL,42,Flores,MEI,Corinthians,Jogador,Normal,0,67,81
+PER13,812,13,Peru,J,CONMEBOL,42,Silva,ATA,Peñarol,Jogador,Normal,0,70,81
+PER14,813,14,Peru,J,CONMEBOL,42,Fernández,ATA,Corinthians,Jogador,Normal,0,72,81
+PER15,814,15,Peru,J,CONMEBOL,42,Santos,ATA,Santos,Jogador,Normal,0,71,81
+PER16,815,16,Peru,J,CONMEBOL,42,Torres,ATA,River Plate,Jogador,Normal,0,78,81
+PER17,816,17,Peru,J,CONMEBOL,42,Castillo,ATA,River Plate,Jogador,Normal,0,69,81
+PER18,817,18,Peru,J,CONMEBOL,42,Vargas,ATA,Boca Juniors,Jogador,Normal,0,76,81
+PER19,818,19,Peru,J,CONMEBOL,42,Estrela Peru,ATA,Corinthians,Estrela,Brilhante,1,70,81
+PER20,819,20,Peru,J,CONMEBOL,42,Estrela Peru,ATA,Nacional,Destaque,Brilhante,1,71,81
+DIN01,820,1,Dinamarca,K,UEFA,23,Escudo Dinamarca,ESP,—,Escudo,Brilhante,1,,83
+DIN02,821,2,Dinamarca,K,UEFA,23,Grupo K — Dinamarca,ESP,—,Grupo,Normal,0,,83
+DIN03,822,3,Dinamarca,K,UEFA,23,Smith,GOL,Celtic,Goleiro,Normal,0,73,83
+DIN04,823,4,Dinamarca,K,UEFA,23,Hansen,GOL,Benfica,Goleiro,Normal,0,81,83
+DIN05,824,5,Dinamarca,K,UEFA,23,Kovač,ZAG,Porto,Jogador,Normal,0,75,83
+DIN06,825,6,Dinamarca,K,UEFA,23,Popescu,ZAG,Slavia Praha,Jogador,Normal,0,82,83
+DIN07,826,7,Dinamarca,K,UEFA,23,Svensson,ZAG,Rangers,Jogador,Normal,0,74,83
+DIN08,827,8,Dinamarca,K,UEFA,23,Kovač,LAT,Porto,Jogador,Normal,0,76,83
+DIN09,828,9,Dinamarca,K,UEFA,23,Müller,LAT,Porto,Jogador,Normal,0,80,83
+DIN10,829,10,Dinamarca,K,UEFA,23,Renard,VOL,Celtic,Jogador,Normal,0,75,83
+DIN11,830,11,Dinamarca,K,UEFA,23,García,MEI,Anderlecht,Jogador,Normal,0,78,83
+DIN12,831,12,Dinamarca,K,UEFA,23,Popescu,MEI,Celtic,Jogador,Normal,0,79,83
+DIN13,832,13,Dinamarca,K,UEFA,23,Rossi,ATA,Anderlecht,Jogador,Normal,0,80,83
+DIN14,833,14,Dinamarca,K,UEFA,23,Svensson,ATA,Rangers,Jogador,Normal,0,75,83
+DIN15,834,15,Dinamarca,K,UEFA,23,Petrov,ATA,Anderlecht,Jogador,Normal,0,78,83
+DIN16,835,16,Dinamarca,K,UEFA,23,Kovač,ATA,Lyon,Jogador,Normal,0,77,83
+DIN17,836,17,Dinamarca,K,UEFA,23,Dembélé,ATA,Besiktas,Jogador,Normal,0,80,83
+DIN18,837,18,Dinamarca,K,UEFA,23,Rossi,ATA,Anderlecht,Jogador,Normal,0,79,83
+DIN19,838,19,Dinamarca,K,UEFA,23,Estrela Dinamarca,ATA,Anderlecht,Estrela,Brilhante,1,76,83
+DIN20,839,20,Dinamarca,K,UEFA,23,Estrela Dinamarca,ATA,Benfica,Destaque,Brilhante,1,78,83
+HAI01,840,1,Haiti,K,CONCACAF,99,Escudo Haiti,ESP,—,Escudo,Brilhante,1,,85
+HAI02,841,2,Haiti,K,CONCACAF,99,Grupo K — Haiti,ESP,—,Grupo,Normal,0,,85
+HAI03,842,3,Haiti,K,CONCACAF,99,David,GOL,Tigres UANL,Goleiro,Normal,0,60,85
+HAI04,843,4,Haiti,K,CONCACAF,99,Lozano,GOL,Pumas,Goleiro,Normal,0,61,85
+HAI05,844,5,Haiti,K,CONCACAF,99,Cavallini,ZAG,Seattle Sounders,Jogador,Normal,0,62,85
+HAI06,845,6,Haiti,K,CONCACAF,99,Millar,ZAG,León,Jogador,Normal,0,66,85
+HAI07,846,7,Haiti,K,CONCACAF,99,David,ZAG,LA Galaxy,Jogador,Normal,0,59,85
+HAI08,847,8,Haiti,K,CONCACAF,99,Buchanan,LAT,LA Galaxy,Jogador,Normal,0,61,85
+HAI09,848,9,Haiti,K,CONCACAF,99,Johnston,LAT,Chivas,Jogador,Normal,0,68,85
+HAI10,849,10,Haiti,K,CONCACAF,99,Millar,VOL,Chivas,Jogador,Normal,0,69,85
+HAI11,850,11,Haiti,K,CONCACAF,99,Cavallini,MEI,LA Galaxy,Jogador,Normal,0,68,85
+HAI12,851,12,Haiti,K,CONCACAF,99,Lawrence,MEI,Cruz Azul,Jogador,Normal,0,60,85
+HAI13,852,13,Haiti,K,CONCACAF,99,Buchanan,ATA,Cruz Azul,Jogador,Normal,0,64,85
+HAI14,853,14,Haiti,K,CONCACAF,99,Davies,ATA,CF Montréal,Jogador,Normal,0,65,85
+HAI15,854,15,Haiti,K,CONCACAF,99,Johnston,ATA,Chivas,Jogador,Normal,0,64,85
+HAI16,855,16,Haiti,K,CONCACAF,99,Johnston,ATA,León,Jogador,Normal,0,64,85
+HAI17,856,17,Haiti,K,CONCACAF,99,Moreno,ATA,León,Jogador,Normal,0,65,85
+HAI18,857,18,Haiti,K,CONCACAF,99,Cavallini,ATA,CF Montréal,Jogador,Normal,0,63,85
+HAI19,858,19,Haiti,K,CONCACAF,99,Estrela Haiti,ATA,Chivas,Estrela,Brilhante,1,60,85
+HAI20,859,20,Haiti,K,CONCACAF,99,Estrela Haiti,ATA,Chivas,Destaque,Brilhante,1,65,85
+VEN01,860,1,Venezuela,K,CONMEBOL,31,Escudo Venezuela,ESP,—,Escudo,Brilhante,1,,87
+VEN02,861,2,Venezuela,K,CONMEBOL,31,Grupo K — Venezuela,ESP,—,Grupo,Normal,0,,87
+VEN03,862,3,Venezuela,K,CONMEBOL,31,Santos,GOL,Racing Club,Goleiro,Normal,0,75,87
+VEN04,863,4,Venezuela,K,CONMEBOL,31,López,GOL,Boca Juniors,Goleiro,Normal,0,72,87
+VEN05,864,5,Venezuela,K,CONMEBOL,31,Silva,ZAG,Corinthians,Jogador,Normal,0,76,87
+VEN06,865,6,Venezuela,K,CONMEBOL,31,Ramírez,ZAG,Peñarol,Jogador,Normal,0,75,87
+VEN07,866,7,Venezuela,K,CONMEBOL,31,Santos,ZAG,Athletico PR,Jogador,Normal,0,72,87
+VEN08,867,8,Venezuela,K,CONMEBOL,31,Castillo,LAT,Independiente,Jogador,Normal,0,77,87
+VEN09,868,9,Venezuela,K,CONMEBOL,31,Martínez,LAT,Racing Club,Jogador,Normal,0,68,87
+VEN10,869,10,Venezuela,K,CONMEBOL,31,Rodríguez,VOL,Corinthians,Jogador,Normal,0,72,87
+VEN11,870,11,Venezuela,K,CONMEBOL,31,López,MEI,Palmeiras,Jogador,Normal,0,74,87
+VEN12,871,12,Venezuela,K,CONMEBOL,31,Ramírez,MEI,River Plate,Jogador,Normal,0,69,87
+VEN13,872,13,Venezuela,K,CONMEBOL,31,Flores,ATA,São Paulo,Jogador,Normal,0,69,87
+VEN14,873,14,Venezuela,K,CONMEBOL,31,Castillo,ATA,Palmeiras,Jogador,Normal,0,72,87
+VEN15,874,15,Venezuela,K,CONMEBOL,31,Castillo,ATA,Santos,Jogador,Normal,0,70,87
+VEN16,875,16,Venezuela,K,CONMEBOL,31,Santos,ATA,Nacional,Jogador,Normal,0,74,87
+VEN17,876,17,Venezuela,K,CONMEBOL,31,González,ATA,Athletico PR,Jogador,Normal,0,76,87
+VEN18,877,18,Venezuela,K,CONMEBOL,31,Ramírez,ATA,Corinthians,Jogador,Normal,0,75,87
+VEN19,878,19,Venezuela,K,CONMEBOL,31,Estrela Venezuela,ATA,Independiente,Estrela,Brilhante,1,74,87
+VEN20,879,20,Venezuela,K,CONMEBOL,31,Estrela Venezuela,ATA,Flamengo,Destaque,Brilhante,1,77,87
+NIG01,880,1,Nigéria,K,CAF,45,Escudo Nigéria,ESP,—,Escudo,Brilhante,1,,89
+NIG02,881,2,Nigéria,K,CAF,45,Grupo K — Nigéria,ESP,—,Grupo,Normal,0,,89
+NIG03,882,3,Nigéria,K,CAF,45,Cissé,GOL,Mamelodi Sundowns,Goleiro,Normal,0,69,89
+NIG04,883,4,Nigéria,K,CAF,45,Keita,GOL,Mamelodi Sundowns,Goleiro,Normal,0,77,89
+NIG05,884,5,Nigéria,K,CAF,45,Mensah,ZAG,Mamelodi Sundowns,Jogador,Normal,0,69,89
+NIG06,885,6,Nigéria,K,CAF,45,Coulibaly,ZAG,Al-Ahly,Jogador,Normal,0,68,89
+NIG07,886,7,Nigéria,K,CAF,45,Kamara,ZAG,Wydad,Jogador,Normal,0,71,89
+NIG08,887,8,Nigéria,K,CAF,45,Osei,LAT,TP Mazembe,Jogador,Normal,0,71,89
+NIG09,888,9,Nigéria,K,CAF,45,Keita,LAT,Al-Ahly,Jogador,Normal,0,70,89
+NIG10,889,10,Nigéria,K,CAF,45,Asante,VOL,Asante Kotoko,Jogador,Normal,0,72,89
+NIG11,890,11,Nigéria,K,CAF,45,Diop,MEI,TP Mazembe,Jogador,Normal,0,73,89
+NIG12,891,12,Nigéria,K,CAF,45,Coulibaly,MEI,Wydad,Jogador,Normal,0,73,89
+NIG13,892,13,Nigéria,K,CAF,45,Touré,ATA,Espérance Tunis,Jogador,Normal,0,77,89
+NIG14,893,14,Nigéria,K,CAF,45,Fall,ATA,Zamalek,Jogador,Normal,0,72,89
+NIG15,894,15,Nigéria,K,CAF,45,Keita,ATA,Wydad,Jogador,Normal,0,75,89
+NIG16,895,16,Nigéria,K,CAF,45,Fall,ATA,Al-Ahly,Jogador,Normal,0,76,89
+NIG17,896,17,Nigéria,K,CAF,45,Traore,ATA,Mamelodi Sundowns,Jogador,Normal,0,75,89
+NIG18,897,18,Nigéria,K,CAF,45,Osei,ATA,TP Mazembe,Jogador,Normal,0,71,89
+NIG19,898,19,Nigéria,K,CAF,45,Estrela Nigéria,ATA,Kaizer Chiefs,Estrela,Brilhante,1,75,89
+NIG20,899,20,Nigéria,K,CAF,45,Estrela Nigéria,ATA,Mamelodi Sundowns,Destaque,Brilhante,1,75,89
+ARG01,900,1,Argélia,L,CAF,28,Escudo Argélia,ESP,—,Escudo,Brilhante,1,,91
+ARG02,901,2,Argélia,L,CAF,28,Grupo L — Argélia,ESP,—,Grupo,Normal,0,,91
+ARG03,902,3,Argélia,L,CAF,28,Mensah,GOL,Asante Kotoko,Goleiro,Normal,0,71,91
+ARG04,903,4,Argélia,L,CAF,28,Coulibaly,GOL,TP Mazembe,Goleiro,Normal,0,72,91
+ARG05,904,5,Argélia,L,CAF,28,Touré,ZAG,Kaizer Chiefs,Jogador,Normal,0,76,91
+ARG06,905,6,Argélia,L,CAF,28,Osei,ZAG,Mamelodi Sundowns,Jogador,Normal,0,76,91
+ARG07,906,7,Argélia,L,CAF,28,Koné,ZAG,TP Mazembe,Jogador,Normal,0,76,91
+ARG08,907,8,Argélia,L,CAF,28,Diallo,LAT,Al-Ahly,Jogador,Normal,0,74,91
+ARG09,908,9,Argélia,L,CAF,28,Touré,LAT,Raja Casablanca,Jogador,Normal,0,81,91
+ARG10,909,10,Argélia,L,CAF,28,Keita,VOL,Mamelodi Sundowns,Jogador,Normal,0,77,91
+ARG11,910,11,Argélia,L,CAF,28,Coulibaly,MEI,Zamalek,Jogador,Normal,0,71,91
+ARG12,911,12,Argélia,L,CAF,28,Ndiaye,MEI,TP Mazembe,Jogador,Normal,0,77,91
+ARG13,912,13,Argélia,L,CAF,28,Keita,ATA,TP Mazembe,Jogador,Normal,0,75,91
+ARG14,913,14,Argélia,L,CAF,28,Asante,ATA,Raja Casablanca,Jogador,Normal,0,76,91
+ARG15,914,15,Argélia,L,CAF,28,Mbaye,ATA,Espérance Tunis,Jogador,Normal,0,71,91
+ARG16,915,16,Argélia,L,CAF,28,Diop,ATA,Al-Ahly,Jogador,Normal,0,76,91
+ARG17,916,17,Argélia,L,CAF,28,Diallo,ATA,Kaizer Chiefs,Jogador,Normal,0,75,91
+ARG18,917,18,Argélia,L,CAF,28,Kamara,ATA,Espérance Tunis,Jogador,Normal,0,76,91
+ARG19,918,19,Argélia,L,CAF,28,Estrela Argélia,ATA,TP Mazembe,Estrela,Brilhante,1,78,91
+ARG20,919,20,Argélia,L,CAF,28,Estrela Argélia,ATA,TP Mazembe,Destaque,Brilhante,1,82,91
+ARÁ01,920,1,Arábia Saudita,L,AFC,66,Escudo Arábia Saudita,ESP,—,Escudo,Brilhante,1,,93
+ARÁ02,921,2,Arábia Saudita,L,AFC,66,Grupo L — Arábia Saudita,ESP,—,Grupo,Normal,0,,93
+ARÁ03,922,3,Arábia Saudita,L,AFC,66,Al-Dawsari,GOL,Al-Nassr,Goleiro,Normal,0,67,93
+ARÁ04,923,4,Arábia Saudita,L,AFC,66,Kim,GOL,Jeonbuk,Goleiro,Normal,0,65,93
+ARÁ05,924,5,Arábia Saudita,L,AFC,66,Nishino,ZAG,Yokohama FM,Jogador,Normal,0,65,93
+ARÁ06,925,6,Arábia Saudita,L,AFC,66,Al-Faraj,ZAG,Jeonbuk,Jogador,Normal,0,66,93
+ARÁ07,926,7,Arábia Saudita,L,AFC,66,Honda,ZAG,Al-Nassr,Jogador,Normal,0,63,93
+ARÁ08,927,8,Arábia Saudita,L,AFC,66,Honda,LAT,Yokohama FM,Jogador,Normal,0,66,93
+ARÁ09,928,9,Arábia Saudita,L,AFC,66,Endo,LAT,Al-Nassr,Jogador,Normal,0,65,93
+ARÁ10,929,10,Arábia Saudita,L,AFC,66,Al-Faraj,VOL,Kashima Antlers,Jogador,Normal,0,69,93
+ARÁ11,930,11,Arábia Saudita,L,AFC,66,Salem,MEI,Urawa Reds,Jogador,Normal,0,70,93
+ARÁ12,931,12,Arábia Saudita,L,AFC,66,Nishino,MEI,Al-Ittihad,Jogador,Normal,0,62,93
+ARÁ13,932,13,Arábia Saudita,L,AFC,66,Endo,ATA,Al-Nassr,Jogador,Normal,0,70,93
+ARÁ14,933,14,Arábia Saudita,L,AFC,66,Endo,ATA,Urawa Reds,Jogador,Normal,0,74,93
+ARÁ15,934,15,Arábia Saudita,L,AFC,66,Salem,ATA,Jeonbuk,Jogador,Normal,0,72,93
+ARÁ16,935,16,Arábia Saudita,L,AFC,66,Al-Faraj,ATA,Al-Ittihad,Jogador,Normal,0,66,93
+ARÁ17,936,17,Arábia Saudita,L,AFC,66,Lee,ATA,Al-Ittihad,Jogador,Normal,0,64,93
+ARÁ18,937,18,Arábia Saudita,L,AFC,66,Choi,ATA,Al-Ittihad,Jogador,Normal,0,70,93
+ARÁ19,938,19,Arábia Saudita,L,AFC,66,Estrela Arábia Saudita,ATA,Al-Ittihad,Estrela,Brilhante,1,71,93
+ARÁ20,939,20,Arábia Saudita,L,AFC,66,Estrela Arábia Saudita,ATA,Al-Ittihad,Destaque,Brilhante,1,72,93
+REP01,940,1,Rep. Tcheca,L,UEFA,27,Escudo Rep. Tcheca,ESP,—,Escudo,Brilhante,1,,95
+REP02,941,2,Rep. Tcheca,L,UEFA,27,Grupo L — Rep. Tcheca,ESP,—,Grupo,Normal,0,,95
+REP03,942,3,Rep. Tcheca,L,UEFA,27,Weber,GOL,Slavia Praha,Goleiro,Normal,0,80,95
+REP04,943,4,Rep. Tcheca,L,UEFA,27,Weber,GOL,Shakhtar,Goleiro,Normal,0,77,95
+REP05,944,5,Rep. Tcheca,L,UEFA,27,Novak,ZAG,Sparta Praha,Jogador,Normal,0,80,95
+REP06,945,6,Rep. Tcheca,L,UEFA,27,Novak,ZAG,Porto,Jogador,Normal,0,78,95
+REP07,946,7,Rep. Tcheca,L,UEFA,27,García,ZAG,Anderlecht,Jogador,Normal,0,78,95
+REP08,947,8,Rep. Tcheca,L,UEFA,27,Petrov,LAT,Slavia Praha,Jogador,Normal,0,77,95
+REP09,948,9,Rep. Tcheca,L,UEFA,27,Müller,LAT,Galatasaray,Jogador,Normal,0,76,95
+REP10,949,10,Rep. Tcheca,L,UEFA,27,García,VOL,Feyenoord,Jogador,Normal,0,75,95
+REP11,950,11,Rep. Tcheca,L,UEFA,27,Weber,MEI,Lyon,Jogador,Normal,0,73,95
+REP12,951,12,Rep. Tcheca,L,UEFA,27,Popescu,MEI,Sparta Praha,Jogador,Normal,0,73,95
+REP13,952,13,Rep. Tcheca,L,UEFA,27,García,ATA,Shakhtar,Jogador,Normal,0,81,95
+REP14,953,14,Rep. Tcheca,L,UEFA,27,García,ATA,Rangers,Jogador,Normal,0,80,95
+REP15,954,15,Rep. Tcheca,L,UEFA,27,Dembélé,ATA,Anderlecht,Jogador,Normal,0,75,95
+REP16,955,16,Rep. Tcheca,L,UEFA,27,Müller,ATA,Anderlecht,Jogador,Normal,0,82,95
+REP17,956,17,Rep. Tcheca,L,UEFA,27,Andersen,ATA,Galatasaray,Jogador,Normal,0,75,95
+REP18,957,18,Rep. Tcheca,L,UEFA,27,Fischer,ATA,Celtic,Jogador,Normal,0,74,95
+REP19,958,19,Rep. Tcheca,L,UEFA,27,Estrela Rep. Tcheca,ATA,Lyon,Estrela,Brilhante,1,81,95
+REP20,959,20,Rep. Tcheca,L,UEFA,27,Estrela Rep. Tcheca,ATA,Benfica,Destaque,Brilhante,1,80,95
+MAR01,960,1,Marrocos (2),L,CAF,14,Escudo Marrocos (2),ESP,—,Escudo,Brilhante,1,,97
+MAR02,961,2,Marrocos (2),L,CAF,14,Grupo L — Marrocos (2),ESP,—,Grupo,Normal,0,,97
+MAR03,962,3,Marrocos (2),L,CAF,14,Asante,GOL,Zamalek,Goleiro,Normal,0,82,97
+MAR04,963,4,Marrocos (2),L,CAF,14,Osei,GOL,Wydad,Goleiro,Normal,0,80,97
+MAR05,964,5,Marrocos (2),L,CAF,14,Koné,ZAG,Kaizer Chiefs,Jogador,Normal,0,78,97
+MAR06,965,6,Marrocos (2),L,CAF,14,Mbaye,ZAG,Asante Kotoko,Jogador,Normal,0,79,97
+MAR07,966,7,Marrocos (2),L,CAF,14,Keita,ZAG,Espérance Tunis,Jogador,Normal,0,78,97
+MAR08,967,8,Marrocos (2),L,CAF,14,Cissé,LAT,Mamelodi Sundowns,Jogador,Normal,0,81,97
+MAR09,968,9,Marrocos (2),L,CAF,14,Diop,LAT,Espérance Tunis,Jogador,Normal,0,81,97
+MAR10,969,10,Marrocos (2),L,CAF,14,Fall,VOL,Al-Ahly,Jogador,Normal,0,82,97
+MAR11,970,11,Marrocos (2),L,CAF,14,Osei,MEI,Espérance Tunis,Jogador,Normal,0,76,97
+MAR12,971,12,Marrocos (2),L,CAF,14,Coulibaly,MEI,Zamalek,Jogador,Normal,0,84,97
+MAR13,972,13,Marrocos (2),L,CAF,14,Osei,ATA,TP Mazembe,Jogador,Normal,0,82,97
+MAR14,973,14,Marrocos (2),L,CAF,14,Touré,ATA,Wydad,Jogador,Normal,0,79,97
+MAR15,974,15,Marrocos (2),L,CAF,14,Traore,ATA,Wydad,Jogador,Normal,0,79,97
+MAR16,975,16,Marrocos (2),L,CAF,14,Touré,ATA,TP Mazembe,Jogador,Normal,0,77,97
+MAR17,976,17,Marrocos (2),L,CAF,14,Fall,ATA,Zamalek,Jogador,Normal,0,80,97
+MAR18,977,18,Marrocos (2),L,CAF,14,Mbaye,ATA,TP Mazembe,Jogador,Normal,0,80,97
+MAR19,978,19,Marrocos (2),L,CAF,14,Estrela Marrocos (2),ATA,Espérance Tunis,Estrela,Brilhante,1,84,97
+MAR20,979,20,Marrocos (2),L,CAF,14,Estrela Marrocos (2),ATA,Asante Kotoko,Destaque,Brilhante,1,81,97
+CC01,980,,Coca-Cola,,,,Vini Jr. (Especial Coca-Cola),ESP,Coca-Cola,Patrocinador CC,Brilhante,1,,
+CC02,981,,Coca-Cola,,,,Rodrygo (Especial Coca-Cola),ESP,Coca-Cola,Patrocinador CC,Brilhante,1,,
+CC03,982,,Coca-Cola,,,,Raphinha (Especial Coca-Cola),ESP,Coca-Cola,Patrocinador CC,Brilhante,1,,
+CC04,983,,Coca-Cola,,,,Estêvão (Especial Coca-Cola),ESP,Coca-Cola,Patrocinador CC,Brilhante,1,,
+CC05,984,,Coca-Cola,,,,Messi (Especial Coca-Cola),ESP,Coca-Cola,Patrocinador CC,Brilhante,1,,
+CC06,985,,Coca-Cola,,,,Mbappé (Especial Coca-Cola),ESP,Coca-Cola,Patrocinador CC,Brilhante,1,,
+CC07,986,,Coca-Cola,,,,Bellingham (Especial Coca-Cola),ESP,Coca-Cola,Patrocinador CC,Brilhante,1,,
+CC08,987,,Coca-Cola,,,,Yamal (Especial Coca-Cola),ESP,Coca-Cola,Patrocinador CC,Brilhante,1,,
+CC09,988,,Coca-Cola,,,,Donnarumma (Especial Coca-Cola),ESP,Coca-Cola,Patrocinador CC,Brilhante,1,,
+CC10,989,,Coca-Cola,,,,Haaland (Especial Coca-Cola),ESP,Coca-Cola,Patrocinador CC,Brilhante,1,,
+CC11,990,,Coca-Cola,,,,Salah (Especial Coca-Cola),ESP,Coca-Cola,Patrocinador CC,Brilhante,1,,
+CC12,991,,Coca-Cola,,,,Neymar Jr. (Especial Coca-Cola),ESP,Coca-Cola,Patrocinador CC,Brilhante,1,,
+CC13,992,,Coca-Cola,,,,Couverture Coca-Cola,ESP,Coca-Cola,Patrocinador CC,Brilhante,1,,
+CC14,993,,Coca-Cola,,,,Logo Parceria FIFA×Coca-Cola,ESP,Coca-Cola,Patrocinador CC,Brilhante,1,,
